@@ -1,0 +1,12 @@
+.idea
+venv
+report/studio/result
+tests/studio/test_case/result
+.DS_Store
+*.pyc
+*.log
+__pycache__/
+data/studio
+allure_json/
+allure_html/
+config/studio_config.yaml

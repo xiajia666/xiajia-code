@@ -1,0 +1,10540 @@
+AddTack:
+  #2D版片新增假缝
+  one_1:
+    x: 372
+    y: 571
+    clicks: 1
+    button: left
+    duration: 0.2
+  one_2:
+    x: 390
+    y: 618
+    clicks: 1
+    button: left
+    duration: 0.2
+  #3D版片新增假缝
+  one_3:
+    x: 1080
+    y: 644
+    clicks: 1
+    button: left
+    duration: 0.2
+  one_4:
+    x: 1147
+    y: 822
+    clicks: 1
+    button: left
+    duration: 0.2
+  #2D跨版片新增假缝
+  two_1:
+    x: 476
+    y: 632
+    clicks: 1
+    button: left
+    duration: 0.2
+  two_2:
+    x: 615
+    y: 634
+    clicks: 1
+    button: left
+    duration: 0.2
+  #3D跨版片新增假缝
+  two_3:
+    x: 1058
+    y: 375
+    clicks: 1
+    button: left
+    duration: 0.2
+  two_4:
+    x: 905
+    y: 445
+    clicks: 1
+    button: left
+    duration: 0.2
+  #2D跨3D版片新增假缝
+  three_1:
+    x: 165
+    y: 628
+    clicks: 1
+    button: left
+    duration: 0.2
+  three_2:
+    x: 1479
+    y: 518
+    clicks: 1
+    button: left
+    duration: 0.2
+  #3D跨2D版片新增假缝
+  three_3:
+    x: 1096
+    y: 495
+    clicks: 1
+    button: left
+    duration: 0.2
+  three_4:
+    x: 611
+    y: 618
+    clicks: 1
+    button: left
+    duration: 0.2
+  #2D视窗起点净边处版片内添加假缝
+  four_1:
+    x: 138
+    y: 572
+    clicks: 1
+    button: left
+    duration: 0.2
+  four_2:
+    x: 233
+    y: 574
+    clicks: 1
+    button: left
+    duration: 0.2
+  #2D视窗起点净边处跨版添加假缝
+  five_1:
+    x: 139
+    y: 591
+    clicks: 1
+    button: left
+    duration: 0.2
+  five_2:
+    x: 305
+    y: 603
+    clicks: 1
+    button: left
+    duration: 0.2
+  #假缝点击在版片外
+  six_1:
+    x: 174
+    y: 608
+    clicks: 1
+    button: left
+    duration: 0.2
+  six_2:
+    x: 180
+    y: 694
+    clicks: 1
+    button: left
+    duration: 0.2
+
+  #添加后，再第二点位置还未点击时，可以按ctrl+z撤回
+  seven_1:
+    x: 227
+    y: 516
+    clicks: 1
+    button: left
+    duration: 0.2
+  #假缝在2D顶点到版片内创建
+  eight_1:
+    x: 136
+    y: 536
+    clicks: 1
+    button: left
+    duration: 0.2
+  eight_2:
+    x: 188
+    y: 562
+    clicks: 1
+    button: left
+    duration: 0.2
+  #相同位置创建假缝
+  nine_1:
+    x: 174
+    y: 514
+    clicks: 1
+    button: left
+    duration: 0.2
+  nine_2:
+    x: 230
+    y: 517
+    clicks: 1
+    button: left
+    duration: 0.2
+  nine_3:
+    x: 174
+    y: 514
+    clicks: 1
+    button: left
+    duration: 0.2
+  nine_4:
+    x: 230
+    y: 517
+    clicks: 1
+    button: left
+    duration: 0.2
+  #场景列表查看新增假缝
+  ten_1:
+    x: 1636
+    y: 101
+    clicks: 1
+    button: left
+    duration: 0.2
+  ten_2:
+    x: 1590
+    y: 354
+    clicks: 1
+    button: left
+    duration: 0.2
+  #编辑假缝，拖拽2D，3D
+  edit_one_1:
+    x: 164
+    y: 628
+    clicks: 1
+    button: left
+    duration: 0.2
+  edit_one_2:
+    x: 297
+    y: 630
+    clicks: 1
+    button: left
+    duration: 0.2
+  edit_one_3:
+    x: 1058
+    y: 371
+    clicks: 1
+    button: left
+    duration: 0.2
+  edit_one_4:
+    x: 1048
+    y: 586
+    clicks: 1
+    button: left
+    duration: 0.2
+  #编辑假缝，多选拖拽2D，3D
+    #框选
+  edit_two_1:
+    x: 90
+    y: 493
+    clicks: 1
+    button: left
+    duration: 0.2
+  edit_two_2:
+    x: 179
+    y: 610
+    clicks: 1
+    button: left
+    duration: 0.2
+    #拖拽移动
+  edit_two_3:
+    x: 173
+    y: 514
+    clicks: 1
+    button: left
+    duration: 0.2
+  edit_two_4:
+    x: 169
+    y: 637
+    clicks: 1
+    button: left
+    duration: 0.2
+    #3D框选
+  edit_two_5:
+    x: 945
+    y: 603
+    clicks: 1
+    button: left
+    duration: 0.2
+  edit_two_6:
+    x: 1398
+    y: 726
+    clicks: 1
+    button: left
+    duration: 0.2
+    #3D拖拽
+  edit_two_7:
+    x: 1262
+    y: 645
+    clicks: 1
+    button: left
+    duration: 0.2
+  edit_two_8:
+    x: 1261
+    y: 705
+    clicks: 1
+    button: left
+    duration: 0.2
+
+  #编辑假缝，多选同时修改假缝长度
+
+  #点击修改属性栏
+  edit_three_1:
+    x: 1870
+    y: 483
+    clicks: 1
+    button: left
+    duration: 0.2
+
+  #3D视窗拖拽
+  edit_three_2:
+    x: 956
+    y: 618
+    clicks: 1
+    button: left
+    duration: 0.2
+  edit_three_3:
+    x: 1401
+    y: 744
+    clicks: 1
+    button: left
+    duration: 0.2
+
+
+  #编辑假缝，单选修改假缝长度
+  edit_four_1:
+    x: 323
+    y: 533
+    clicks: 1
+    button: left
+    duration: 0.2
+  edit_four_2:
+    x: 1890
+    y: 481
+    clicks: 1
+    button: left
+    duration: 0.2
+  edit_four_3:
+    x: 1795
+    y: 626
+    clicks: 1
+    button: left
+    duration: 0.2
+  edit_four_4:
+    x: 1420
+    y: 779
+    clicks: 1
+    button: left
+    duration: 0.2
+
+
+  #查看假缝
+  show_one_1:
+    x: 104
+    y: 454
+    clicks: 1
+    button: left
+    duration: 0.2
+  show_one_2:
+    x: 693
+    y: 724
+    clicks: 1
+    button: left
+    duration: 0.2
+    #缩小视角
+  show_two_1:
+    x: 915
+    y: 738
+    clicks: 1
+    button: left
+    duration: 0.2
+    #选择后删除
+  show_two_2:
+    x: 294
+    y: 630
+    clicks: 1
+    button: left
+    duration: 0.2
+  show_two_3:
+    x: 1233
+    y: 647
+    clicks: 1
+    button: left
+    duration: 0.2
+
+  #删除假缝
+  del_one_1:
+    x: 347
+    y: 515
+    clicks: 1
+    button: right
+    duration: 0.2
+  del_one_2:
+    x: 396
+    y: 532
+    clicks: 1
+    button: left
+    duration: 0.2
+  del_two_1:
+    x: 346
+    y: 518
+    clicks: 1
+    button: right
+    duration: 0.2
+  del_two_2:
+    x: 380
+    y: 611
+    clicks: 1
+    button: left
+    duration: 0.2
+  del_three_1:
+    x: 80
+    y: 435
+    clicks: 1
+    button: left
+    duration: 0.2
+  del_three_2:
+    x: 288
+    y: 789
+    clicks: 1
+    button: left
+    duration: 0.2
+  del_four_1:
+    x: 320
+    y: 525
+    clicks: 1
+    button: left
+    duration: 0.2
+  del_five_1:
+    x: 301
+    y: 553
+    clicks: 1
+    button: left
+    duration: 0.2
+  del_five_2:
+    x: 1080
+    y: 644
+    clicks: 1
+    button: left
+    duration: 0.2
+
+Annotation:
+  #操作第一步：注释点进版片外
+  outside_add:
+    x: 742
+    y: 553
+    clicks: 1
+    button: left
+    duration: 0.2
+  #操作第二步：关闭警告弹框
+  warning_close:
+    x: 1060
+    y: 583
+    clicks: 1
+    button: left
+    duration: 0.2
+  #操作第三步：版片内增加注释
+  inside_add_one:
+    x: 262
+    y: 540
+    clicks: 1
+    button: left
+    duration: 0.2
+  inside_add_two:
+    x: 284
+    y: 664
+    clicks: 1
+    button: left
+    duration: 0.2
+  #操作第四步：点击选择注释
+  edit_annotation_choose:
+    x: 257
+    y: 548
+    clicks: 1
+    button: left
+    duration: 0.2
+ #操作第五步：点击选择注释名字
+  edit_annotation_name:
+    x: 1885
+    y: 482
+    clicks: 1
+    button: left
+    duration: 0.2
+#操作第六步：点击选择注释文本
+  edit_annotation_text:
+    x: 1900
+    y: 510
+    clicks: 1
+    button: left
+    duration: 0.2
+#操作第七步：拖拽角度
+  edit_annotation_angle_dragfirst:
+    x: 1754
+    y: 555
+    clicks: 1
+    button: left
+    duration: 0.2
+  edit_annotation_angle_dragend:
+    x: 1818
+    y: 555
+    clicks: 1
+    button: left
+    duration: 0.2
+#操作第八步：点击选择字号
+  edit_annotation_fontsize:
+    x: 1895
+    y: 581
+    clicks: 1
+    button: left
+    duration: 0.2
+#操作第九步：多选注释
+  choose_more_one:
+    x: 274
+    y: 512
+    clicks: 1
+    button: left
+    duration: 0.2
+  choose_more_two:
+    x: 273
+    y: 671
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#操作第十步：多选后单选注释
+  #点击版片外
+  ten_one:
+    x: 422
+    y: 903
+    clicks: 1
+    button: left
+    duration: 0.2
+  #弹框出现后点击弹框
+  ten_two:
+    x: 1058
+    y: 585
+    clicks: 1
+    button: left
+    duration: 0.2
+  #多选后单选注释
+  ten_three:
+    x: 250
+    y: 521
+    clicks: 1
+    button: left
+    duration: 0.2
+#操作第十一步：多选后拖拽到版片外
+  #接第十步的单选，再选择一注释
+  eleven_one:
+    x: 285
+    y: 675
+    clicks: 1
+    button: left
+    duration: 0.2
+  #拖拽移动开始
+  eleven_two:
+    x: 250
+    y: 530
+    clicks: 1
+    button: left
+    duration: 0.2
+  #拖拽移动结束
+  eleven_three:
+    x: 224
+    y: 839
+    clicks: 1
+    button: left
+    duration: 0.2
+ #多选修改注释名字
+  eleven_four:
+    x: 1900
+    y: 509
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#操作第十二步：多选删除注释
+  #点击其中一个注释
+  twelve_one:
+    x: 224
+    y: 839
+    clicks: 1
+    button: left
+    duration: 0.2
+#操作第十三步：注释视角放大缩小
+  thirteen_one:
+    x: 311
+    y: 535
+    clicks: 1
+    button: left
+    duration: 0.2
+  thirteen_two:
+    x: 357
+    y: 564
+    clicks: 1
+    button: left
+    duration: 0.2
+  thirteen_three:
+    x: 328
+    y: 649
+    clicks: 1
+    button: left
+    duration: 0.2
+
+  thirteen_four:
+    x: 528
+    y: 637
+    clicks: 1
+    button: left
+    duration: 0.2
+
+
+#操作第十四步：导出dxf
+  #导出点击重置
+  fourteen_one:
+    x: 851
+    y: 676
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击导出dxf确定
+  fourteen_two:
+    x: 994
+    y: 675
+    clicks: 1
+    button: left
+    duration: 0.2
+  #导入点击重置
+  fourteen_three:
+    x: 853
+    y: 626
+    clicks: 1
+    button: left
+    duration: 0.2
+ #点击导入dxf确定
+  fourteen_four:
+    x: 996
+    y: 628
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#操作第十五步：单选删除注释
+  #点击选择注释
+  fiveteen_one:
+    x: 296
+    y: 547
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#框选注释
+  #增加注释1
+  choose_two_1:
+    x: 296
+    y: 549
+    clicks: 1
+    button: left
+    duration: 0.2
+ #增加注释2
+  choose_two_2:
+    x: 392
+    y: 580
+    clicks: 1
+    button: left
+    duration: 0.2
+ #框选按下
+  choose_two_3:
+    x: 169
+    y: 358
+    clicks: 1
+    button: left
+    duration: 0.2
+ #框选放起
+  choose_two_4:
+    x: 594
+    y: 781
+    clicks: 1
+    button: left
+    duration: 0.2
+
+Elastic:
+  #操作第一步：选择版片的净边
+  one:
+    x: 593
+    y: 550
+    clicks: 1
+    button: left
+    duration: 0.2
+  #操作第二步：拖拽修改比例大小
+  two:
+    x: 1825
+    y: 455
+    clicks:
+    button:
+    duration:
+  three:
+    x: 1880
+    y: 455
+    clicks:
+    button:
+    duration:
+
+#云渲染
+CloudRender:
+  click_view_one:
+    #操作第一步：点击云渲染
+    x: 1257
+    y: 885
+    clicks: 1
+    button: left
+    duration: 0.2
+    #操作第二步：点击云渲染弹框"X"
+  click_view_two:
+    x: 1146
+    y: 445
+    clicks: 1
+    button: left
+    duration: 0.2
+    #操作第三步：点击关闭3D快照
+  click_view_three:
+    x: 1302
+    y: 143
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#另存为不重复的时间戳文件点击确定
+OfflineRender:
+  save_enter:  #服务器电脑点击确定
+    x: 1134
+    y: 599
+    clicks: 1
+    button: left
+    duration: 0.2
+  #另存为不重复的时间戳文件点击确定_wangquan电脑坐标
+  save_enter_wangquan:
+    x: 1056
+    y: 599
+    clicks: 1
+    button: left
+    duration: 0.2
+  #离线渲染窗口
+  photo:
+    #点击最终渲染
+    x: 164
+    y: 108
+    clicks: 1
+    button: left
+    duration: 0.2
+    #点击图片属性
+  video_propetry:
+    x: 282
+    y: 106
+    clicks: 1
+    button: left
+    duration: 0.2
+    #点击打开保存的图片文件_png时
+  open_file:
+    x: 1892
+    y: 858
+    clicks: 1
+    button: left
+    duration: 0.2
+    #点击打开保存的图片文件_jpg时
+  open_file_jpg:
+    x: 1888
+    y: 831
+    clicks: 1
+    button: left
+    duration: 0.2
+    #点击修改文件名
+  file_name:
+    x: 1880
+    y: 830
+    clicks: 1
+    button: left
+    duration: 0.2
+    #点击修改文件名_jpg
+  file_name_jpg:
+    x: 1880
+    y: 803
+    clicks: 1
+    button: left
+    duration: 0.2
+    #点击文件名
+  click_file_name:
+    x: 1642
+    y: 829
+    clicks: 1
+    button: left
+    duration: 0.2
+    #点击文件名_jpg
+  click_file_name_jpg:
+    x: 1634
+    y: 802
+    clicks: 1
+    button: left
+    duration: 0.2
+    #关闭离线渲染成功提示
+  close:
+    x: 1061
+    y: 584
+    clicks: 1
+    button: left
+    duration: 0.2
+    #点击修改hdr灯光
+  light:
+    x: 337
+    y: 105
+    clicks: 1
+    button: left
+    duration: 0.2
+  light_change:
+    x: 1859
+    y: 831
+    clicks: 1
+    button: left
+    duration: 0.2
+    #点击修改gpu_png
+  render_tool:
+    x: 1760
+    y: 946
+    clicks: 1
+    button: left
+    duration: 0.2
+  gpu_change:
+    x: 1763
+    y: 986
+    clicks: 1
+    button: left
+    duration: 0.2
+  cpu_change:
+    x: 1763
+    y: 966
+    clicks: 1
+    button: left
+    duration: 0.2
+    #点击修改gpu_jpg
+  render_tool_jpg:
+    x: 1775
+    y: 918
+    clicks: 1
+    button: left
+    duration: 0.2
+  gpu_change_jpg:
+    x: 1775
+    y: 955
+    clicks: 1
+    button: left
+    duration: 0.2
+  cpu_change_jpg:
+    x: 1775
+    y: 937
+    clicks: 1
+    button: left
+    duration: 0.2
+#假缝到模特
+TackToAvatar:
+  #在服装上点击时，版片处于半透明状态，3Dpopbutton同时联动
+  show_one_1:
+    x: 1193
+    y: 485
+    clicks: 1
+    button: left
+    duration: 0.2
+  #假缝长度不一致时，属性栏红色
+  show_two_1:
+    x: 1045
+    y: 436
+    clicks: 1
+    button: left
+    duration: 0.2
+  show_two_2:
+    x: 1331
+    y: 851
+    clicks: 1
+    button: left
+    duration: 0.2
+  #放大视角选择
+  show_three_1:
+    x: 1117
+    y: 722
+    clicks: 1
+    button: left
+    duration: 0.2
+  show_three_2:
+    x: 1095
+    y: 395
+    clicks: 1
+    button: left
+    duration: 0.2
+  #添加假缝
+   #3D视窗版片内添加假缝，版片到模特
+  add_one_1:
+    x: 1128
+    y: 677
+    clicks: 1
+    button: left
+    duration: 0.2
+  #3D视窗版片内添加假缝，模特到版片#
+  add_two_1:
+    x: 1234
+    y: 648
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_two_2:
+    x: 1219
+    y: 445
+    clicks: 1
+    button: left
+    duration: 0.2
+  #只在版片上无法创建
+  add_three_1:
+    x: 314
+    y: 622
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_three_2:
+    x: 1138
+    y: 472
+    clicks: 1
+    button: left
+    duration: 0.2
+  #只在模特上无法创建
+  add_four_1:
+    x: 1122
+    y: 735
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_four_2:
+    x: 1245
+    y: 741
+    clicks: 1
+    button: left
+    duration: 0.2
+  #相同位置创建假缝到模特
+  add_five_1:
+    x: 1132
+    y: 459
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_five_2:
+    x: 1238
+    y: 715
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_five_3:
+    x: 1132
+    y: 459
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_five_4:
+    x: 1238
+    y: 715
+    clicks: 1
+    button: left
+    duration: 0.2
+  #假缝添加后，场景管理列表有新增的假缝到模特
+  add_six_1:
+    x: 1635
+    y: 108
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_six_2:
+    x: 1594
+    y: 330
+    clicks: 1
+    button: left
+    duration: 0.2
+  #添加后，再第二点位置还未点击时，可以按ctrl+z撤回
+  add_seven_1:
+    x: 1136
+    y: 518
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_seven_2:
+    x: 1116
+    y: 626
+    clicks: 1
+    button: left
+    duration: 0.2
+
+  #编辑假缝
+   #单选拖拽假缝
+  edit_one_1:
+    x: 1219
+    y: 444
+    clicks: 1
+    button: left
+    duration: 0.2
+  edit_one_2:
+    x: 1249
+    y: 551
+    clicks: 1
+    button: left
+    duration: 0.2
+   #多选拖拽假缝
+  edit_two_1:
+    x: 1059
+    y: 431
+    clicks: 1
+    button: left
+    duration: 0.2
+  edit_two_2:
+    x: 1328
+    y: 766
+    clicks: 1
+    button: left
+    duration: 0.2
+  edit_two_3:
+    x: 1232
+    y: 648
+    clicks: 1
+    button: left
+    duration: 0.2
+  edit_two_4:
+    x: 1260
+    y: 778
+    clicks: 1
+    button: left
+    duration: 0.2
+   #多选修改假缝长度
+  edit_three_1:
+    x: 1882
+    y: 482
+    clicks: 1
+    button: left
+    duration: 0.2
+  edit_three_2:
+    x: 1059
+    y: 431
+    clicks: 1
+    button: left
+    duration: 0.2
+  edit_three_3:
+    x: 1328
+    y: 766
+    clicks: 1
+    button: left
+    duration: 0.2
+
+   #单选修改假缝长度
+  edit_four_1:
+    x: 1260
+    y: 779
+    clicks: 1
+    button: left
+    duration: 0.2
+  edit_four_2:
+    x: 1887
+    y: 484
+    clicks: 1
+    button: left
+    duration: 0.2
+  edit_four_3:
+    x: 1699
+    y: 647
+    clicks: 1
+    button: left
+    duration: 0.2
+#删除假缝
+   #取消对称轴
+  del_one_1:
+    x: 349
+    y: 543
+    clicks: 1
+    button: right
+    duration: 0.2
+  del_one_2:
+    x: 374
+    y: 556
+    clicks: 1
+    button: left
+    duration: 0.2
+  #剪切
+  del_two_1:
+    x: 349
+    y: 556
+    clicks: 1
+    button: right
+    duration: 0.2
+  del_two_2:
+    x: 381
+    y: 639
+    clicks: 1
+    button: left
+    duration: 0.2
+  # 合并
+  del_four_1:
+    x: 374
+    y: 585
+    clicks: 1
+    button: left
+    duration: 0.2
+  del_four_2:
+    x: 318
+    y: 555
+    clicks: 1
+    button: left
+    duration: 0.2
+  del_four_3:
+    x: 344
+    y: 553
+    clicks: 1
+    button: right
+    duration: 0.2
+  del_four_4:
+    x: 389
+    y: 622
+    clicks: 1
+    button: left
+    duration: 0.2
+
+
+
+  #shift选择后删除
+  del_three_1:
+    x: 1193
+    y: 485
+    clicks: 1
+    button: left
+    duration: 0.2
+  del_three_2:
+    x: 1261
+    y: 778
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#固定针
+FixPin:
+  #框选可以生成固定针（2D，3D，在不同的视角位置，固定针顶点上）
+  #2D
+  add_one_1:
+    x: 300
+    y: 590
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2:
+    x: 335
+    y: 630
+    clicks: 1
+    button: left
+    duration: 0.2
+  #3D
+  add_one_3:
+    x: 1220
+    y: 690
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_4:
+    x: 1322
+    y: 843
+    clicks: 1
+    button: left
+    duration: 0.2
+
+  #在固定针单点可以生成固定针（2D，3D）
+  add_two_1:
+    x: 1286
+    y: 602
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_two_2:
+    x: 285
+    y: 600
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_two_3:
+    x: 474
+    y: 496
+    clicks: 1
+    button: left
+    duration: 0.2
+
+  #在固定针双击可以生成固定针（2D，3D）
+  add_three_1:
+    x: 428
+    y: 593
+    clicks: 2
+    button: left
+    duration: 0.2
+  add_three_2:
+    x: 499
+    y: 785
+    clicks: 2
+    button: left
+    duration: 0.2
+  add_three_3:
+    x: 1144
+    y: 893
+    clicks: 2
+    button: left
+    duration: 0.2
+
+  #在固定针双击可以生成固定针（2D，3D）
+  add_four_1:
+    x: 428
+    y: 593
+    clicks: 2
+    button: left
+    duration: 0.2
+  add_four_2:
+    x: 617
+    y: 623
+    clicks: 2
+    button: left
+    duration: 0.2
+  add_four_3:
+    x: 1161
+    y: 658
+    clicks: 2
+    button: left
+    duration: 0.2
+
+  #按shift键可以多选固定针，反选固定针（2D, 3D）
+  add_five_1:
+    x: 370
+    y: 570
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_five_2:
+    x: 400
+    y: 620
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_five_3:
+    x: 1079
+    y: 437
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_five_4:
+    x: 1140
+    y: 495
+    clicks: 1
+    button: left
+    duration: 0.2
+  #3Dshift反选
+  add_five_5:
+    x: 1053
+    y: 410
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_five_6:
+    x: 1165
+    y: 520
+    clicks: 1
+    button: left
+    duration: 0.2
+  #2Dshift反选
+  add_five_7:
+    x: 350
+    y: 560
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_five_8:
+    x: 415
+    y: 630
+    clicks: 1
+    button: left
+    duration: 0.2
+
+  #按ctrl键可以去除固定针(2D, 3D)
+  add_six_1:
+    x: 370
+    y: 570
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_six_2:
+    x: 400
+    y: 620
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_six_3:
+    x: 1079
+    y: 437
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_six_4:
+    x: 1140
+    y: 495
+    clicks: 1
+    button: left
+    duration: 0.2
+  #3Dshift反选
+  add_six_5:
+    x: 1053
+    y: 410
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_six_6:
+    x: 1165
+    y: 520
+    clicks: 1
+    button: left
+    duration: 0.2
+  #2Dshift反选
+  add_six_7:
+    x: 350
+    y: 560
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_six_8:
+    x: 415
+    y: 630
+    clicks: 1
+    button: left
+    duration: 0.2
+
+
+  #在场景管理点击隐藏固定针，在固定针模式下，点击固定针，有相应的定位球
+  choose_seven_1:
+    x: 1050
+    y: 430
+    clicks: 1
+    button: left
+    duration: 0.2
+  choose_seven_2:
+    x: 1225
+    y: 590
+    clicks: 1
+    button: left
+    duration: 0.2
+  choose_seven_3: #点击选择移动
+    x: 50
+    y: 46
+    clicks: 1
+    button: left
+    duration: 0.2
+  choose_seven_4: #点击场景
+    x: 1636
+    y: 100
+    clicks: 1
+    button: left
+    duration: 0.2
+  choose_seven_5: #隐藏固定针
+    x: 1606
+    y: 212
+    clicks: 1
+    button: left
+    duration: 0.2
+  choose_seven_6: #3D点选固定针
+    x: 1133
+    y: 503
+    clicks: 1
+    button: left
+    duration: 0.2
+
+  #右键删除选择的固定针(2D, 3D)
+  add_eight_1:
+    x: 370
+    y: 570
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_eight_2:
+    x: 400
+    y: 620
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_eight_3:
+    x: 1079
+    y: 437
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_eight_4:
+    x: 1140
+    y: 495
+    clicks: 1
+    button: left
+    duration: 0.2
+  #3D选择固定针右键删除
+  add_eight_5:
+    x: 1269
+    y: 665
+    clicks: 1
+    button: right
+    duration: 0.2
+  add_eight_6:
+    x: 1329
+    y: 678
+    clicks: 1
+    button: left
+    duration: 0.2
+  #3D选择固定针右键删除
+  add_eight_7:
+    x: 327
+    y: 524
+    clicks: 1
+    button: right
+    duration: 0.2
+  add_eight_8:
+    x: 382
+    y: 537
+    clicks: 1
+    button: left
+    duration: 0.2
+
+
+#右键删除所有固定针(2D, 3D)
+  add_night_1:
+    x: 370
+    y: 570
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_night_2:
+    x: 400
+    y: 620
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_night_3:
+    x: 1079
+    y: 437
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_night_4:
+    x: 1140
+    y: 495
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_night_5:
+    x: 1269
+    y: 665
+    clicks: 1
+    button: right
+    duration: 0.2
+  add_night_6:
+    x: 1329
+    y: 706
+    clicks: 1
+    button: left
+    duration: 0.2
+
+  #右键删除所有固定针(2D, 3D)
+  add_ten_1:
+    x: 370
+    y: 570
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_ten_2:
+    x: 400
+    y: 620
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_ten_3:
+    x: 1079
+    y: 437
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_ten_4:
+    x: 1140
+    y: 495
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_ten_5:
+    x: 348
+    y: 594
+    clicks: 1
+    button: right
+    duration: 0.2
+  add_ten_6:
+    x: 396
+    y: 609
+    clicks: 1
+    button: left
+    duration: 0.2
+
+
+#省
+AddNormanDart:
+  #可以在净边上增加
+  add_one_1:
+    x: 372
+    y: 817
+    clicks: 1
+    button: left
+    duration: 0.2
+#  线段1输入框
+  add_one_2:
+    x: 1072
+    y: 385
+    clicks: 1
+    button: left
+    duration: 0.2
+#  深度输入框
+  add_one_3:
+    x: 1072
+    y: 472
+    clicks: 1
+    button: left
+    duration: 0.2
+#  宽度输入框
+  add_one_4:
+    x: 1072
+    y: 497
+    clicks: 1
+    button: left
+    duration: 0.2
+#  宽度1输入框
+  add_one_5:
+    x: 1072
+    y: 551
+    clicks: 1
+    button: left
+    duration: 0.2
+#  宽度2输入框
+  add_one_6:
+    x: 1072
+    y: 583
+    clicks: 1
+    button: left
+    duration: 0.2
+#  第二个省
+  add_one_7:
+    x: 330
+    y: 301
+    clicks: 1
+    button: left
+    duration: 0.2
+#  自动缝合
+  add_one_9:
+    x: 832
+    y: 634
+    clicks: 1
+    button: left
+    duration: 0.2
+#  省弹窗取消
+  add_one_8:
+    x: 1064
+    y: 684
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#菱形省
+Dart:
+  #弹框按钮点击确定
+  enter:
+    x: 1057
+    y: 587
+    clicks: 1
+    button: left
+    duration: 0.2
+
+  #1:可以在版片上新增菱形省
+  add_one_1:
+    x: 418
+    y: 424
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击确定
+  add_one_2:
+    x: 991
+    y: 614
+    clicks: 1
+    button: left
+    duration: 0.2
+
+  #2:无法在版片外新增菱形省
+  #点击版片外
+  add_two_1:
+    x: 742
+    y: 552
+    clicks: 1
+    button: left
+    duration: 0.2
+
+  #点击警告弹框确定
+  add_two_2:
+    x: 1060
+    y: 606
+    clicks: 1
+    button: left
+    duration: 0.2
+
+  #在对称版片/联动/边缘对称上
+  #点击边缘对称版片
+  add_three_1:
+    x: 382
+    y: 574
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击确定
+  add_three_2:
+    x: 970
+    y: 623
+    clicks: 1
+    button: left
+    duration: 0.2
+
+  #4:在版片内新增菱形省大小无法超出版片
+  #点击版片边缘
+  add_four_1:
+    x: 646
+    y: 474
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击确定
+  add_four_2:
+    x: 962
+    y: 624
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击警告弹框确定
+  add_four_3:
+    x: 1065
+    y: 600
+    clicks: 1
+    button: left
+    duration: 0.2
+  #5:无法在已有的菱形省上，再新增菱形省
+  #点击版片内
+  add_five_1:
+    x: 407
+    y: 440
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击确定
+  add_five_2:
+    x: 992
+    y: 614
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击菱形省重复位置
+  add_five_3:
+    x: 407
+    y: 440
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击确定
+  add_five_4:
+    x: 992
+    y: 614
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击点击警告弹框确定
+  add_five_5:
+    x: 1060
+    y: 606
+    clicks: 1
+    button: left
+    duration: 0.2
+
+ #6:新增菱形省时，直接按键盘的enter可以添加成功，按esc可以取消
+  #点击版片内，配合enter
+  add_six_1:
+    x: 381
+    y: 443
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击版片内，配合esc
+  add_six_2:
+    x: 450
+    y: 420
+    clicks: 1
+    button: left
+    duration: 0.2
+
+ #7:拖拽生成自定义大小的菱形省
+  #点击版片内，拖拽按下
+  add_seven_1:
+    x: 387
+    y: 422
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击版片内，拖拽释放
+  add_seven_2:
+    x: 435
+    y: 456
+    clicks: 1
+    button: left
+    duration: 0.2
+
+ #8:无法拖拽到版片外生成菱形省
+  #点击版片内，拖拽按下
+  add_eight_1:
+    x: 424
+    y: 444
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击版片外，拖拽释放
+  add_eight_2:
+    x: 741
+    y: 687
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击点击警告弹框确定
+  add_eight_3:
+    x: 1060
+    y: 606
+    clicks: 1
+    button: left
+    duration: 0.2
+
+ #9:使用快捷键增加菱形省
+  #点击版片
+  add_nine_1:
+    x: 418
+    y: 424
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击确定
+  add_nine_2:
+    x: 991
+    y: 614
+    clicks: 1
+    button: left
+    duration: 0.2
+
+ #10:版片上新增的菱形省，复制版片后，有对应的菱形省信息
+  #点击版片
+  add_ten_1:
+    x: 418
+    y: 424
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击确定
+  add_ten_2:
+    x: 991
+    y: 614
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击版片，复制
+  add_ten_3:
+    x: 482
+    y: 471
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击2D视窗位置，粘贴
+  add_ten_4:
+    x: 635
+    y: 448
+    clicks: 1
+    button: left
+    duration: 0.2
+
+
+#1:选择移动模式下，可以选择菱形省，可以对菱形省del删除
+  #新增菱形省
+  del_one_1:
+    x: 418
+    y: 424
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击确定
+  del_one_2:
+    x: 991
+    y: 614
+    clicks: 1
+    button: left
+    duration: 0.2
+  # 选择菱形省
+  del_one_3:
+    x: 397
+    y: 503
+    clicks: 1
+    button: left
+    duration: 0.2
+
+  #选择移动模式下，可以多选菱形省，一起del删除
+  #新增菱形省1
+  del_two_1:
+    x: 293
+    y: 552
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击确定
+  del_two_2:
+    x: 969
+    y: 620
+    clicks: 1
+    button: left
+    duration: 0.2
+  #新增菱形省2
+  del_two_3:
+    x: 512
+    y: 557
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击确定
+  del_two_4:
+    x: 969
+    y: 620
+    clicks: 1
+    button: left
+    duration: 0.2
+  # 选择菱形省1
+  del_two_5:
+    x: 293
+    y: 552
+    clicks: 1
+    button: left
+    duration: 0.2
+  # 选择菱形省2
+  del_two_6:
+    x: 512
+    y: 557
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#1:增加菱形省选择自动缝合时，菱形省会自动缝合
+  #新增菱形省
+  shwo_eleven_1:
+    x: 406
+    y: 558
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击自动缝合
+  shwo_eleven_2:
+    x: 831
+    y: 569
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击确定
+  shwo_eleven_3:
+    x: 988
+    y: 613
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#1:选择移动模式下，可以选择菱形省，对省菱形省进行缩放操作
+  #新增菱形省
+  choose_one_1:
+    x: 384
+    y: 541
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击确定
+  choose_one_2:
+    x: 991
+    y: 614
+    clicks: 1
+    button: left
+    duration: 0.2
+  #选择菱形省
+  choose_one_3:
+    x: 383
+    y: 536
+    clicks: 1
+    button: left
+    duration: 0.2
+
+  #缩放选择按下
+  choose_one_4:
+    x: 439
+    y: 430
+    clicks: 1
+    button: left
+    duration: 0.2
+  #缩放选择释放
+  choose_one_5:
+    x: 395
+    y: 509
+    clicks: 1
+    button: left
+    duration: 0.2
+#2:选择移动模式下，可以选择菱形省，对省菱形省进行旋转操作
+  #新增菱形省
+  choose_two_1:
+    x: 384
+    y: 541
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击确定
+  choose_two_2:
+    x: 991
+    y: 614
+    clicks: 1
+    button: left
+    duration: 0.2
+  #选择菱形省
+  choose_two_3:
+    x: 397
+    y: 541
+    clicks: 1
+    button: left
+    duration: 0.2
+
+  #旋转选择按下
+  choose_two_4:
+    x: 383
+    y: 409
+    clicks: 1
+    button: left
+    duration: 0.2
+  #旋转选择释放
+  choose_two_5:
+    x: 454
+    y: 522
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#版本查看
+Version:
+  #1:可以在版片上新增菱形省
+  add_one_1:
+    x: 602
+    y: 608
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#OBJ
+OBJ:
+  # 点击加载方式
+  add_one_1:
+    x: 939
+    y: 292
+    clicks: 1
+    button: left
+    duration: 0.2
+  # 点击添加
+  add_one_2:
+    x: 939
+    y: 334
+    clicks: 1
+    button: left
+    duration: 0.2
+  # 点击确定
+  add_one_3:
+    x: 990
+    y: 770
+    clicks: 1
+    button: left
+    duration: 0.2
+  #1:导出OBJ点击重置
+  open_one_1:
+    x: 1099
+    y: 837
+    clicks: 1
+    button: left
+    duration: 0.2
+  # 选择zip
+  open_choose_zip:
+    x: 1084
+    y: 764
+    clicks: 1
+    button: left
+    duration: 0.2
+
+  #2:导出OBJ点击确定
+  open_one_2:
+    x: 1186
+    y: 836
+    clicks: 1
+    button: left
+    duration: 0.2
+  #3:导入OBJ点击确定
+  open_one_3:
+    x: 992
+    y: 767
+    clicks: 1
+    button: left
+    duration: 0.2
+  #4:选中模特
+  open_one_4:
+    x: 1164
+    y: 624
+    clicks: 1
+    button: left
+    duration: 0.2
+
+  #导入为附件
+  open_two_1:
+    x: 939
+    y: 318
+    clicks: 1
+    button: left
+    duration: 0.2
+  open_two_2:
+    x: 939
+    y: 357
+    clicks: 1
+    button: left
+    duration: 0.2
+  open_two_3:
+    x: 995
+    y: 695
+    clicks: 1
+    button: left
+    duration: 0.2
+  #导入为道具
+  open_three_1:
+    x: 939
+    y: 318
+    clicks: 1
+    button: left
+    duration: 0.2
+  open_three_2:
+    x: 940
+    y: 389
+    clicks: 1
+    button: left
+    duration: 0.2
+  open_three_3:
+    x: 995
+    y: 673
+    clicks: 1
+    button: left
+    duration: 0.2
+  #导入为服装
+  open_four_1:
+    x: 939
+    y: 318
+    clicks: 1
+    button: left
+    duration: 0.2
+  open_four_2:
+    x: 938
+    y: 372
+    clicks: 1
+    button: left
+    duration: 0.2
+  open_four_3: #在uv图中勾勒2D版片
+    x: 922
+    y: 344
+    clicks: 1
+    button: left
+    duration: 0.2
+  open_four_4: #点击确定
+    x: 992
+    y: 702
+    clicks: 1
+    button: left
+    duration: 0.2
+  open_four_5: #点击空白处
+    x: 860
+    y: 840
+    clicks: 1
+    button: left
+    duration: 0.2
+
+# 导出obj时，勾统一uv，烘焙纹理
+  # 点击重置
+  open_six_1:
+    x: 1100
+    y: 836
+    clicks: 1
+    button: left
+    duration: 0.2
+  #2:点击统一uv
+  open_six_2:
+    x: 1084
+    y: 550
+    clicks: 1
+    button: left
+    duration: 0.2
+  #3:点击烘焙纹理
+  open_six_3:
+    x: 1100
+    y: 529
+    clicks: 1
+    button: left
+    duration: 0.2
+  #4:点击烘焙法线
+  open_six_4:
+    x: 1100
+    y: 553
+    clicks: 1
+    button: left
+    duration: 0.2
+  #5:点击烘焙粗糙度图
+  open_six_5:
+    x: 1100
+    y: 576
+    clicks: 1
+    button: left
+    duration: 0.2
+  #6:点击烘焙粗金属度
+  open_six_6:
+    x: 1100
+    y: 600
+    clicks: 1
+    button: left
+    duration: 0.2
+  #7:点击烘焙透明图
+  open_six_7:
+    x: 1100
+    y: 623
+    clicks: 1
+    button: left
+    duration: 0.2
+  #8:点击烘焙置换图
+  open_six_8:
+    x: 1100
+    y: 647
+    clicks: 1
+    button: left
+    duration: 0.2
+  #9:导出点击确定
+  open_six_9:
+    x: 1238
+    y: 998
+    clicks: 1
+    button: left
+    duration: 0.2
+  #10:导入点击确定
+  open_six_10:
+    x: 992
+    y: 770
+    clicks: 1
+    button: left
+    duration: 0.2
+  open_drag_1: # 拖拽弹框
+    x: 936
+    y: 195
+    clicks: 1
+    button: left
+    duration: 0.2
+  open_drag_2: # 拖拽弹框
+    x: 943
+    y: 113
+    clicks: 1
+    button: left
+    duration: 0.2
+  open_move_1: # 拖拽移动中间步骤
+    x: 978
+    y: 130
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#FBX
+FBX:
+  #1:导出FBX点击确定
+  add_one_1:
+    x: 1217
+    y: 885
+    clicks: 1
+    button: left
+    duration: 0.2
+  #2:导入FBX点击确定
+  add_one_2:
+    x: 1050
+    y: 850
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#GLB
+GLB:
+  #1:导出GLB点击重置
+  add_one_1:
+    x: 1098
+    y: 818
+    clicks: 1
+    button: left
+    duration: 0.2
+  #2:导出GLb点击确定
+  add_one_2:
+    x: 1186
+    y: 818
+    clicks: 1
+    button: left
+    duration: 0.2
+  #2:导入GLB点击重置
+  add_one_3:
+    x: 835
+    y: 767
+    clicks: 1
+    button: left
+    duration: 0.2
+  #2:导入GLB点击确定
+  add_one_4:
+    x: 1015
+    y: 767
+    clicks: 1
+    button: left
+    duration: 0.2
+  #3:点击选择导入的模特
+  add_one_5:
+    x: 1199
+    y: 317
+    clicks: 1
+    button: left
+    duration: 0.2
+  #导入为附件
+  add_two_1:
+    x: 946
+    y: 319
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_two_2:
+    x: 946
+    y: 353
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_two_3:
+    x: 994
+    y: 695
+    clicks: 1
+    button: left
+    duration: 0.2
+  #导入为道具
+  add_three_1:
+    x: 946
+    y: 319
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_three_2:
+    x: 943
+    y: 369
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_three_3:
+    x: 995
+    y: 671
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#GLTF
+GLTF:
+  #1:导出GLTF点击重置
+  add_one_1:
+    x: 1098
+    y: 818
+    clicks: 1
+    button: left
+    duration: 0.2
+  #1:导出GLTF点击确定
+  add_one_2:
+    x: 1186
+    y: 818
+    clicks: 1
+    button: left
+    duration: 0.2
+  #2:导入GLTF点击重置
+  add_one_3:
+    x: 835
+    y: 767
+    clicks: 1
+    button: left
+    duration: 0.2
+  #2:导入GLTF点击确定
+  add_one_4:
+    x: 1015
+    y: 767
+    clicks: 1
+    button: left
+    duration: 0.2
+  #3:点击选择导入的模特
+  add_one_5:
+    x: 1199
+    y: 317
+    clicks: 1
+    button: left
+    duration: 0.2
+  #导入为附件
+  add_two_1:
+    x: 953
+    y: 318
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_two_2:
+    x: 953
+    y: 356
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_two_3:
+    x: 1000
+    y: 695
+    clicks: 1
+    button: left
+    duration: 0.2
+  #导入为道具
+  add_three_1:
+    x: 953
+    y: 318
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_three_2:
+    x: 953
+    y: 371
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_three_3:
+    x: 1015
+    y: 671
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#SCO
+SCO:
+  #1:导出SCO点击确定
+  add_one_1:
+    x: 1263
+    y: 891
+    clicks: 1
+    button: left
+    duration: 0.2
+  #2:导出SCO点击重置
+  add_one_2:
+    x: 585
+    y: 890
+    clicks: 1
+    button: left
+    duration: 0.2
+  #2:导入SCO点击确定
+  add_one_3:
+    x: 1015
+    y: 639
+    clicks: 1
+    button: left
+    duration: 0.2
+  #3:导出时点击确定
+  wangquan_enter:
+    x: 1080
+    y: 577
+    clicks: 1
+    button: left
+    duration: 0.2
+  enter:
+    x: 1060
+    y: 595
+    clicks: 1
+    button: left
+    duration: 0.2
+#导入为附件
+  add_two_1:
+    x: 974
+    y: 460
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_two_2:
+    x: 967
+    y: 494
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_two_3:
+    x: 1015
+    y: 641
+    clicks: 1
+    button: left
+    duration: 0.2
+#导入为道具
+  add_three_1:
+    x: 1006
+    y: 461
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_three_2:
+    x: 964
+    y: 511
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_three_3:
+    x: 997
+    y: 630
+    clicks: 1
+    button: left
+    duration: 0.2
+
+
+#DXF
+DXF:
+  #1:导入DXF点击重置
+  add_one_1:
+    x: 844
+    y: 628
+    clicks: 1
+    button: left
+    duration: 0.2
+  #2:导入DXF点击确定
+  add_one_2:
+    x: 1006
+    y: 628
+    clicks: 1
+    button: left
+    duration: 0.2
+  #3:框选版片删除
+  add_one_3:
+    x: 367
+    y: 456
+    clicks: 1
+    button: left
+    duration: 0.2
+  #4:框选版片删除
+  add_one_4:
+    x: 642
+    y: 789
+    clicks: 1
+    button: left
+    duration: 0.2
+  #5:导出dxf弹框点击重置
+  add_one_5:
+    x: 855
+    y: 676
+    clicks: 1
+    button: left
+    duration: 0.2
+  #6:导出dxf弹框点击确认
+  add_one_6:
+    x: 995
+    y: 676
+    clicks: 1
+    button: left
+    duration: 0.2
+#动画编辑器
+AnimationRender:
+  # 点击回到最开始
+  go_to_start:
+    x: 645
+    y: 741
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击录制
+  record:
+    x: 594
+    y: 742
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击导出视频
+  export_video:
+    x: 1628
+    y: 742
+    clicks: 1
+    button: left
+    duration: 0.2
+
+  #点击mp4 avi本地渲染渲染
+  local_render:
+    x: 946
+    y: 595
+    clicks: 1
+    button: left
+    duration: 0.5
+  #直接保存
+  save:
+    x: 874
+    y: 595
+    clicks: 1
+    button: left
+    duration: 0.5
+
+  #动画属性
+  animation_property:
+    x: 1680
+    y: 739
+    clicks: 1
+    button: left
+    duration: 0.5
+
+  #渲染成功点击确定
+  click_enter:
+    x: 1058
+    y: 586
+    clicks: 1
+    button: left
+    duration: 0.2
+
+  #添加动作
+  add_one_1:
+    x: 132
+    y: 793
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击平底鞋走秀I
+  add_one_2:
+    x: 131
+    y: 802
+    clicks: 1
+    button: left
+    duration: 0.2
+  #勾选创建过渡动画，点击确定
+  add_one_3:
+    x: 1022
+    y: 581
+    clicks: 1
+    button: left
+    duration: 0.2
+  # 点击动画栏动作
+  add_one_4:
+    x: 1791
+    y: 843
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#点击模拟时间缩放
+  add_two_1:
+    x: 1620
+    y: 512
+    clicks: 1
+    button: left
+    duration: 0.2
+
+  add_two_2:
+    x: 1880
+    y: 656
+    clicks: 1
+    button: left
+    duration: 0.2
+
+
+
+
+#一键上传
+ShareUpload:
+  #1:点击确定
+  add_one_1:
+    x: 1262
+    y: 892
+    clicks: 1
+    button: left
+    duration: 0.5
+
+#2:点击廓形库
+  add_one_2:
+    x: 730
+    y: 567
+    clicks: 1
+    button: left
+    duration: 0.5
+
+  #3:点击廓形库确定
+  add_one_3:
+    x: 1166
+    y: 720
+    clicks: 1
+    button: left
+    duration: 0.5
+
+  #4:点击下一步
+  add_one_4:
+    x: 289
+    y: 880
+    clicks: 1
+    button: left
+    duration: 0.5
+
+  #5:点击名称
+  add_one_5:
+    x: 284
+    y: 775
+    clicks: 1
+    button: left
+    duration: 0.5
+
+  #6:点击内部编号
+  add_one_6:
+    x: 633
+    y: 777
+    clicks: 1
+    button: left
+    duration: 0.5
+
+  #7:点击类目
+  add_one_7:
+    x: 956
+    y: 775
+    clicks: 1
+    button: left
+    duration: 0.5
+
+  #8:点击男装
+  add_one_8:
+    x: 957
+    y: 534
+    clicks: 1
+    button: left
+    duration: 0.5
+
+  #9:点击衬衫
+  add_one_9:
+    x: 1123
+    y: 543
+    clicks: 1
+    button: left
+    duration: 0.5
+
+  #10:点击私有
+  add_one_10:
+    x: 339
+    y: 603
+    clicks: 1
+    button: left
+    duration: 0.5
+
+  #10:上传云端窗口点击保存
+  add_one_11:
+    x: 290
+    y: 879
+    clicks: 1
+    button: left
+    duration: 0.5
+
+  #登录
+  login:
+    x: 1
+    y: 1
+    css: .ls-btn.ls-btn-primary.login-btn
+
+
+  #11:廓形库xpath
+  style:
+    x: 1
+    y: 1
+    xpath: //*[@class="ls-menu-title-content"]//*[text()[contains(., "廓形库")]]
+
+  #12:新款判断css
+  newcloth:
+    x: 1
+    y: 1
+    css: .official-content-popover .official-content-hd .official-content-close.style-icon.iconguanbi1
+
+  #13:搜索css
+  serach:
+    x: 1
+    y: 1
+    css1: .ls-input-group .ls-input-affix-wrapper .ls-input
+    css2: .input-search-icon.lsicon-sousuo
+
+  #13: 点击搜索结果css
+  search_click:
+    x: 1
+    y: 1
+    css: .grid-item-cover-con.thumb-con .thumb-img
+
+  #14: 搜索结果退出xapth
+  quit:
+    x: 1
+    y: 1
+    xpath: //*[@class="style3dicon icon--tuichu"]
+
+  #15: 点击删除展示css
+  delete_show:
+    x: 1
+    y: 1
+    css: .style-icon.lsicon-shenglvehao-heng.tool-icon
+
+
+  #16: 点击删除xpath
+  delete:
+    x: 1
+    y: 1
+    xpath: //*[text()[contains(., "删除")]]
+
+  #17: 点击删除确认css
+  delete_confirm:
+    x: 1
+    y: 1
+    css: .ls-modal-confirm-btns .ls-btn.ls-btn-primary
+
+  # 18 点击最近访问的下拉尖号
+  pull_down:
+    x: 1
+    y: 1
+    css: .lsicon-xiajiantou.down-open-icon
+
+#三角化检查
+Triangulation:
+  #1:点击调试
+  check_one_1:
+    x: 506
+    y: 395
+    clicks: 1
+    button: left
+    duration: 0.5
+  #2:点击三角化测试
+  check_one_2:
+    x: 700
+    y: 275
+    clicks: 1
+    button: left
+    duration: 0.5
+
+ # 形状修改脚本1：合并
+  merge_one_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 596
+    y: 374
+  merge_one_12:
+    Keyboard: o
+    x: 1
+    y: 1
+  merge_one_3:
+    Keyboard: z
+    x: 1
+    y: 1
+  merge_one_4:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 485
+    y: 511
+  merge_one_5up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 457
+    y: 506
+  merge_one_6:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 475
+    y: 506
+  merge_one_7up:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 475
+    y: 506
+  merge_one_8:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 507
+    y: 600
+  merge_one_9up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 507
+    y: 600
+  # 形状修改脚本2：剪切1
+  cut_one_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 601
+    y: 542
+  cut_one_10up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 340
+    y: 507
+  cut_one_11:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 340
+    y: 507
+  cut_one_12up:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 340
+    y: 507
+  cut_one_13:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 398
+    y: 627
+  cut_one_14up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 398
+    y: 627
+  cut_one_15:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 621
+    y: 554
+  cut_one_16up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 621
+    y: 554
+  cut_one_18:
+    Keyboard: b
+    x: 1
+    y: 1
+  cut_one_19:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 472
+    y: 506
+  cut_one_20up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 472
+    y: 506
+  cut_one_21:
+    Keyboard: o
+    x: 1
+    y: 1
+  cut_one_3:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 534
+    y: 555
+  cut_one_4up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 534
+    y: 555
+  cut_one_8:
+    Keyboard: z
+    x: 1
+    y: 1
+  cut_one_9:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 340
+    y: 507
+
+  # 形状修改脚本2：剪切2
+  cut_two_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 523
+    y: 355
+  cut_two_3:
+    Keyboard: z
+    x: 1
+    y: 1
+  cut_two_4:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 411
+    y: 320
+  cut_two_5up:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 411
+    y: 320
+  cut_two_6:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 477
+    y: 438
+  cut_two_7up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 477
+    y: 438
+  cut_two_8:
+    Keyboard: o
+    x: 1
+    y: 1
+  # 形状修改脚本：粒子间距修改
+  particle_distance_two_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 546
+    y: 387
+  particle_distance_two_10:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1333
+    y: 54
+  particle_distance_two_12:
+    Keyboard: o
+    x: 1
+    y: 1
+  particle_distance_two_3:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 553
+    y: 449
+  particle_distance_two_4up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 553
+    y: 449
+  particle_distance_two_5:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1840
+    y: 574
+  particle_distance_two_6:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 991
+    y: 603
+  particle_distance_two_7:
+    Keyboard: numpad1
+    x: 1
+    y: 1
+  particle_distance_two_8:
+    Keyboard: numpad0
+    x: 1
+    y: 1
+  particle_distance_two_9:
+    Keyboard: enter
+    x: 1
+    y: 1
+
+  # 形状脚本修改:设为对称轴
+  convert_to_symmetry_axis_one_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 438
+    y: 432
+  convert_to_symmetry_axis_one_10up:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 397
+    y: 520
+  convert_to_symmetry_axis_one_11:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 447
+    y: 593
+  convert_to_symmetry_axis_one_12up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 447
+    y: 593
+  convert_to_symmetry_axis_one_14:
+    Keyboard: o
+    x: 1
+    y: 1
+  convert_to_symmetry_axis_one_3:
+    Keyboard: z
+    x: 1
+    y: 1
+  convert_to_symmetry_axis_one_4:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 398
+    y: 517
+  convert_to_symmetry_axis_one_5up:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 398
+    y: 517
+  convert_to_symmetry_axis_one_6:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 406
+    y: 529
+  convert_to_symmetry_axis_one_7up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 406
+    y: 530
+  convert_to_symmetry_axis_one_8:
+    Keyboard: i
+    x: 1
+    y: 1
+  convert_to_symmetry_axis_one_9:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 397
+    y: 520
+  # 形状脚本修改: 延展
+  fullness_one_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 375
+    y: 227
+  fullness_one_10up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 202
+    y: 281
+  fullness_one_11:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 202
+    y: 281
+  fullness_one_12up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 202
+    y: 281
+  fullness_one_14:
+    Keyboard: o
+    x: 1
+    y: 1
+  fullness_one_3:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 505
+    y: 53
+  fullness_one_4up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 505
+    y: 53
+  fullness_one_5:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 193
+    y: 450
+  fullness_one_6up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 193
+    y: 450
+  fullness_one_7:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 331
+    y: 302
+  fullness_one_8up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 331
+    y: 302
+  fullness_one_9:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 202
+    y: 281
+  # 形状脚本修改: 自交
+  intersection_one_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 673
+    y: 404
+  intersection_one_13:
+    Keyboard: z
+    x: 1
+    y: 1
+  intersection_one_14:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 444
+    y: 168
+  intersection_one_15up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 496
+    y: 253
+  intersection_one_17:
+    Keyboard: o
+    x: 1
+    y: 1
+# 版片上增加线，点，移动 : 表面翻转
+  flip_normal_one_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1127
+    y: 498
+  flip_normal_one_3:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 1127
+    y: 497
+  flip_normal_one_4up:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 1127
+    y: 497
+  flip_normal_one_5:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1174
+    y: 364
+  flip_normal_one_6up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1174
+    y: 364
+  # 版片上增加线，点，移动 : 点
+  point_one_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 320
+    y: 358
+  point_one_2up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 578
+    y: 560
+  point_one_10:
+    Keyboard: o
+    x: 1
+    y: 1
+  point_one_3:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1867
+    y: 573
+  point_one_4up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1867
+    y: 573
+  point_one_5:
+    Keyboard: numpad1
+    x: 1
+    y: 1
+  point_one_6:
+    Keyboard: numpad9
+    x: 1
+    y: 1
+  point_one_7:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 719
+    y: 610
+  point_one_8up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 719
+    y: 610
+  # 版片上增加线，点，移动 : 基础线
+  baseline_one_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 80
+    y: 660
+  baseline_one_14:
+    Keyboard: i
+    x: 1
+    y: 1
+  baseline_one_15:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 541
+    y: 695
+  baseline_one_16up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 541
+    y: 695
+  baseline_one_17:
+    Keyboard: enter
+    x: 1
+    y: 1
+  baseline_one_18:
+    Keyboard: space
+    x: 1
+    y: 1
+  baseline_one_19:
+    Keyboard: o
+    x: 1
+    y: 1
+  baseline_one_2up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 80
+    y: 660
+  baseline_one_3:
+    button: middle
+    clicks: 1
+    duration: 0.2
+    x: 68
+    y: 542
+  baseline_one_4up:
+    button: middle
+    clicks: 1
+    duration: 0.2
+    x: 276
+    y: 643
+  baseline_one_5:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 296
+    y: 628
+  baseline_one_6up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 296
+    y: 628
+  # 版片上增加线，点，移动 : 内部线
+  internalline_one_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 148
+    y: 665
+  internalline_one_11:
+    button: middle
+    clicks: 1
+    duration: 0.2
+    x: 284
+    y: 418
+  internalline_one_12up:
+    button: middle
+    clicks: 1
+    duration: 0.2
+    x: 384
+    y: 805
+  internalline_one_13:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 322
+    y: 516
+  internalline_one_14up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 322
+    y: 516
+  internalline_one_15:
+    Keyboard: space
+    x: 1
+    y: 1
+  internalline_one_16:
+    Keyboard: space
+    x: 1
+    y: 1
+  internalline_one_17:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 222
+    y: 538
+  internalline_one_18up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 222
+    y: 538
+  internalline_one_23:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 438
+    y: 535
+  internalline_one_24up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 438
+    y: 535
+  internalline_one_25:
+    Keyboard: o
+    x: 1
+    y: 1
+  internalline_one_2up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 148
+    y: 665
+
+#设置关于
+ClickVersion:
+  add_one_1: #点击设置
+    x: 366
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.5
+  add_one_2: #点击关于
+    x: 232
+    y: 53
+    clicks: 1
+    button: left
+    duration: 0.5
+#延展(点)
+AddFullnessPoint:
+  #长方形版片上选择起终点新增延展
+  add_one_1:  #点击起点
+    x: 397
+    y: 310
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2:  #点击终点
+    x: 648
+    y: 528
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3:  #选中一侧进行旋转
+    x: 583
+    y: 358
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_4:  #右键延展弹框
+    x: 480
+    y: 205
+    clicks: 1
+    button: right
+    duration: 0.2
+
+  #对称版片新增延展
+  add_two_1: #点击起点
+    x: 608
+    y: 584
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_two_2: #点击终点
+    x: 631
+    y: 645
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_two_3: #选中一侧进行旋转
+    x: 640
+    y: 622
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_two_4: #右键延展弹框
+    x: 650
+    y: 570
+    clicks: 1
+    button: right
+    duration: 0.2
+
+  #延展起终点在同一条净边上
+  add_three_1: #点击起点
+    x: 282
+    y: 572
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_three_2: #点击终点
+    x: 280
+    y: 647
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_three_3: #选中一侧进行旋转
+    x: 332
+    y: 563
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_three_4: #右键延展弹框
+    x: 314
+    y: 552
+    clicks: 1
+    button: right
+    duration: 0.2
+
+  #延展起终点在边缘对称两侧
+  add_four_1: #点击起点
+    x: 298
+    y: 516
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_four_2: #点击终点
+    x: 381
+    y: 651
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_four_3: #选中一侧进行旋转
+    x: 367
+    y: 552
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_four_4: #右键延展弹框
+    x: 355
+    y: 452
+    clicks: 1
+    button: right
+    duration: 0.2
+
+#延展终点在边缘对称的对称轴上
+  add_five_1: #点击起点
+    x: 280
+    y: 532
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_five_2: #点击终点
+    x: 347
+    y: 644
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_five_3: #选中一侧进行旋转
+    x: 300
+    y: 650
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_five_4: #右键延展弹框
+    x: 232
+    y: 620
+    clicks: 1
+    button: right
+    duration: 0.2
+
+#创建正方形
+CreatRectangle:
+  add_one_1:  #点击长方形
+    x: 331
+    y: 265
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击2D空白处
+    x: 421
+    y: 443
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#创建圆形
+CreatElipse:
+  add_one_1: #点击下拉
+    x: 320
+    y: 60
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击圆形
+    x: 320
+    y: 116
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击2D空白处
+    x: 590
+    y: 470
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_4: #点击确定
+    x: 965
+    y: 580
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#添加T_shirt
+AddTshirt:
+  add_one_1: #点击文件
+    x: 75
+    y: 17
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击打开
+    x: 107
+    y: 73
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击打开服装
+    x: 262
+    y: 102
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#点击延展点(点)
+ClickFullnessPoint:
+  add_one_1: #点击延展点(点)
+    x: 490
+    y: 48
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#软件启动
+StartStyle3D:
+  add_one_1: #是否打开最新工程，点击取消
+    x: 1085
+    y: 578
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #打开保存机制修改，适配脚本
+    x: 500
+    y: 500
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#软件关闭
+CloseStyle3D:
+  add_one_1: #点击关闭
+    x: 1900
+    y: 17
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #是否保存，点击否
+    x: 993
+    y: 600
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#点击当前服装
+ClickGarment:
+  add_one_1: #点击素材
+    x: 103
+    y: 157
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击当前服装
+    x: 85
+    y: 185
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#双击当前服装栏的图案
+ClickGarmentGraphic:
+  add_one_1:
+    x: 28
+    y: 345
+    clicks: 1
+    button: left
+    duration: 0.2
+#双击当前服装栏的纽扣
+ClickGarmentButton:
+  add_one_1:
+    x: 28
+    y: 433
+    clicks: 1
+    button: left
+    duration: 0.2
+#双击当前服装栏的扣眼
+ClickGarmentButtonhole:
+  add_one_1:
+    x: 28
+    y: 524
+    clicks: 1
+    button: left
+    duration: 0.2
+#双击当前服装栏的拉链
+ClickGarmentZipper:
+  add_one_1:
+    x: 28
+    y: 613
+    clicks: 1
+    button: left
+    duration: 0.2
+#双击当前服装栏的明线
+ClickGarmentTopstitch:
+  add_one_1:
+    x: 28
+    y: 703
+    clicks: 1
+    button: left
+    duration: 0.2
+#双击当前服装栏的褶皱
+ClickGarmentPuckering:
+  add_one_1:
+    x: 28
+    y: 794
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击素材库
+Clicklibrary:
+  add_one_1: #点击素材
+    x: 103
+    y: 157
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_two_1: #点击素材库
+    x: 192
+    y: 185
+    clicks: 1
+    button: left
+    duration: 0.2
+
+
+#添加不同工程
+AddOpenSproj:
+  add_one_1: #打开保存机制修改，适配脚本
+    x: 500
+    y: 500
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击文件
+    x: 62
+    y: 13
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击打开
+    x: 93
+    y: 71
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_4: #点击打开项目
+    x: 261
+    y: 69
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#添加默认男175
+AddAvatar:
+  add_one_1: #点击文件
+    x: 77
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击打开
+    x: 122
+    y: 73
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击打开虚拟模特
+    x: 275
+    y: 128
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_4: #点击确定按钮
+    x: 993
+    y: 624
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#加素材库女模特
+ADDLibraryFemaleAvatar:
+  add_one_1: #点击资源库
+    x: 1596
+    y: 430
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击模特
+    x: 601
+    y: 292
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击打开虚拟模特文件夹
+    x: 1066
+    y: 320
+    clicks: 2
+    button: left
+    duration: 0.2
+  add_one_4: #点击打开女模特
+    x: 1174
+    y: 414
+    clicks: 2
+    button: left
+    duration: 0.2
+  add_one_5: #点击确定
+    x: 982
+    y: 626
+    clicks: 2
+    button: left
+    duration: 0.2
+  add_one_6: #点击关闭资源库
+    x: 1338
+    y: 228
+    clicks: 2
+    button: left
+    duration: 0.2
+
+#加素材库女服装
+ADDLibraryFemaleGarment:
+  add_one_1: #点击资源库
+    x: 1596
+    y: 430
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击服装
+    x: 599
+    y: 256
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击打开女t-shirt
+    x: 1283
+    y: 320
+    clicks: 2
+    button: left
+    duration: 0.2
+  add_one_4: #点击确定
+    x: 982
+    y: 626
+    clicks: 2
+    button: left
+    duration: 0.2
+  add_one_5: #点击关闭资源库
+    x: 1339
+    y: 228
+    clicks: 2
+    button: left
+    duration: 0.2
+
+
+#添加织物
+AddFabric:
+  add_one_1: #面料属性栏，点击打开
+    x: 1828
+    y: 160
+    clicks: 1
+    button: left
+    duration: 0.2
+
+CancelTshirtAxis:
+  add_one_1: #取消未删减默认t-shirt前片
+    x: 555
+    y: 603
+    clicks: 1
+    button: right
+    duration: 0.2
+  add_one_2:
+    x: 575
+    y: 618
+    clicks: 1
+    button: left
+    duration: 0.2
+
+CancelFrontpanelAxis:
+  add_one_1: #取消删减后默认t-shirt前片
+    x: 597
+    y: 635
+    clicks: 1
+    button: right
+    duration: 0.2
+  add_one_2:
+    x: 636
+    y: 646
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#克隆对称版片
+SymmeetryWithSeam:
+  add_one_1: #新增克隆对称版片
+    x: 420
+    y: 442
+    clicks: 1
+    button: right
+    duration: 0.2
+  add_one_2:
+    x: 512
+    y: 45
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3:
+    x: 561
+    y: 449
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_4:  #点击场景
+    x: 42
+    y: 157
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_5:  #重置2D版片
+    x: 86
+    y: 238
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_6:
+    x: 84
+    y: 267
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_7:
+    x: 84
+    y: 267
+    clicks: 1
+    button: right
+    duration: 0.2
+  add_one_8:
+    x: 145
+    y: 283
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#颜色修改
+ModifyColor:
+  add_one_1:
+    x: 767
+    y: 618
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2:
+    x: 800
+    y: 835
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#变焦到全景
+FocusPanorama:
+  add_one_1:
+    x: 780
+    y: 134
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#点击多边形
+ClickPolygon:
+  add_one_1:
+    x: 197
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2:
+    x: 216
+    y: 60
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#点击拉链
+ClickZipper:
+  add_one_1: #点击素材
+    x: 266
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击拉链
+    x: 756
+    y: 59
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#编辑缝纫
+ClickEditSewing:
+  add_one_1: #点击开始
+    x: 193
+    y: 12
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击编辑缝纫
+    x: 805
+    y: 54
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#线缝纫
+ClickSegmentSewing:
+  click_one_1: #点击开始
+    x: 192
+    y: 11
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_2: #点击线缝纫下拉
+    x: 880
+    y: 52
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_3: #点击线缝纫
+    x: 864
+    y: 81
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#多段线缝纫
+ClickSegmentMnSewing:
+  add_one_1: #点击开始
+    x: 192
+    y: 12
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击下拉
+    x: 880
+    y: 50
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击多段线缝纫
+    x: 1052
+    y: 107
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#自由缝纫
+ClickFreeSewing:
+  add_one_1: #点击开始
+    x: 192
+    y: 12
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击自由缝纫
+    x: 935
+    y: 54
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#多段自由缝纫
+ClickFreeMnSewing:
+  add_one_1: #点击开始
+    x: 192
+    y: 12
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击下拉
+    x: 967
+    y: 52
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击多段自由缝纫
+    x: 953
+    y: 108
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击线褶皱
+ClickSegmentPuckering:
+  add_one_1: #点击素材
+    x: 236
+    y: 12
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击线褶皱
+    x: 979
+    y: 52
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击测试版线褶皱
+ClickTestSegmentPuckering:
+  add_one_1: #点击素材
+    x: 236
+    y: 12
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击线褶皱
+    x: 1103
+    y: 52
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击自由褶皱
+ClickFreePuckering:
+  add_one_1: #点击素材
+    x: 236
+    y: 12
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击自由褶皱
+    x: 1036
+    y: 51
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击测试版自由褶皱
+ClickTestFreePuckering:
+  add_one_1: #点击素材
+    x: 236
+    y: 12
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击自由褶皱
+    x: 1161
+    y: 51
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击缝纫线褶皱
+ClickSeamlinePuckering:
+  add_one_1: #点击素材
+    x: 236
+    y: 12
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击下拉
+    x: 1058
+    y: 52
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击缝纫线褶皱
+    x: 1064
+    y: 106
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击测试版缝纫线褶皱
+ClickTestSeamlinePuckering:
+  add_one_1: #点击素材
+    x: 236
+    y: 12
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击下拉
+    x: 1183
+    y: 52
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击缝纫线褶皱
+    x: 1183
+    y: 106
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击编辑褶皱
+ClickEditPuckering:
+  add_one_1: #点击素材
+    x: 236
+    y: 12
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击编辑褶皱
+    x: 917
+    y: 52
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击编辑褶皱
+ClickTestEditPuckering:
+  add_one_1: #点击素材
+    x: 236
+    y: 12
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击编辑褶皱
+    x: 1044
+    y: 52
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#点击线明线
+ClickSegmentTopstitch:
+  add_one_1: #点击素材
+    x: 236
+    y: 12
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击线明线
+    x: 670
+    y: 51
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击自由明线
+ClickFreeTopstitch:
+  add_one_1: #点击素材
+    x: 236
+    y: 12
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击自由明线
+    x: 726
+    y: 50
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击缝纫线褶皱
+ClickSeamlineTopstitch:
+  add_one_1: #点击素材
+    x: 236
+    y: 12
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击下拉
+    x: 750
+    y: 50
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击缝纫线明线
+    x: 754
+    y: 107
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击编辑明线
+ClickEditTopstitch:
+  add_one_1: #点击素材
+    x: 205
+    y: 12
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击编辑明线
+    x: 608
+    y: 50
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#点击笔模式
+ClickAddpen:
+  click_one_1: #点击笔模式
+    x: 170
+    y: 51
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#点击省道
+ClickAddnornamldart:
+  click_one_1: #点击开始
+    x: 197
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_2: #点击下拉
+    x: 255
+    y: 50
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_3: #点击省
+    x: 257
+    y: 155
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_4: #创建省弹窗点击确定
+    x: 991
+    y: 685
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#点击菱形省
+ClickDart:
+  add_one_1: #点击开始
+    x: 194
+    y: 16
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击下拉
+    x: 256
+    y: 48
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击菱形省
+    x: 261
+    y: 127
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击延展（线段）
+ClickSlashandspread:
+  add_one_1: #点击开始
+    x: 197
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击下拉
+    x: 632
+    y: 60
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击延展-线段
+    x: 640
+    y: 117
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击刀口
+ClickNotch:
+  add_one_1: #点击开始
+    x: 197
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击下拉
+    x: 476
+    y: 60
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击刀口
+    x: 470
+    y: 117
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击注释
+ClickAddannotation:
+  click_one_1: #点击开始
+    x: 197
+    y: 16
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_2: #点击注释
+    x: 635
+    y: 49
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击缝边
+ClickSeamallowance:
+  add_one_1: #点击开始
+    x: 197
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击缝边
+    x: 685
+    y: 60
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击系纽扣
+ClickFastenButton:
+  add_one_1: #点击素材
+    x: 266
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击系纽扣
+    x: 660
+    y: 60
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击纽扣
+ClickButton:
+  add_one_1: #点击素材
+    x: 236
+    y: 13
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击纽扣
+    x: 360
+    y: 51
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击调整图案
+ClickTransformGraphic:
+  add_one_1: #点击素材
+    x: 266
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击调整图案
+    x: 233
+    y: 60
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击图案
+ClickGraphic:
+  add_one_1: #点击素材
+    x: 266
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击调整图案
+    x: 313
+    y: 60
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击一键上传
+ClickShareUpload:
+  add_one_1: #点击云朵
+    x: 1656
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击一键上传
+    x: 1695
+    y: 40
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击一键更新
+ClickShareUpdate:
+  add_one_1: #点击云朵
+    x: 1656
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击一键更新
+    x: 1695
+    y: 68
+    clicks: 1
+    button: left
+    duration: 0.2
+#导出dxf
+ClickExportDxf:
+  add_one_1: #点击文件
+    x: 63
+    y: 17
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击导出
+    x: 99
+    y: 216
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击导出dxf
+    x: 249
+    y: 216
+    clicks: 1
+    button: left
+    duration: 0.2
+#导入dxf
+ClickImportDxf:
+  add_one_1: #点击文件
+    x: 63
+    y: 17
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击导入
+    x: 95
+    y: 185
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击导入dxf
+    x: 248
+    y: 188
+    clicks: 1
+    button: left
+    duration: 0.2
+#导出obj
+ClickExportObj:
+  add_one_1: #点击文件
+    x: 61
+    y: 10
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击导出
+    x: 115
+    y: 207
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击导出obj
+    x: 262
+    y: 233
+    clicks: 1
+    button: left
+    duration: 0.2
+#导入obj
+ClickImportObj:
+  add_one_1: #点击文件
+    x: 61
+    y: 10
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击导入
+    x: 115
+    y: 182
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击导入obj
+    x: 263
+    y: 210
+    clicks: 1
+    button: left
+    duration: 0.2
+#导出sco
+ClickExportSco:
+  add_one_1: #点击文件
+    x: 78
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击导出
+    x: 115
+    y: 220
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击导出sco
+    x: 262
+    y: 355
+    clicks: 1
+    button: left
+    duration: 0.2
+#导入sco
+ClickImportSco:
+  add_one_1: #点击文件
+    x: 78
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击导入
+    x: 115
+    y: 193
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击导入sco
+    x: 263
+    y: 273
+    clicks: 1
+    button: left
+    duration: 0.2
+#导出fbx
+ClickExportFbx:
+  add_one_1: #点击文件
+    x: 78
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击导出
+    x: 115
+    y: 220
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击导出fbx
+    x: 262
+    y: 328
+    clicks: 1
+    button: left
+    duration: 0.2
+#导入fbx
+ClickImportFbx:
+  add_one_1: #点击文件
+    x: 60
+    y: 14
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击导入
+    x: 100
+    y: 183
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击导入fbx
+    x: 240
+    y: 237
+    clicks: 1
+    button: left
+    duration: 0.2
+#导出glb
+ClickExportGlb:
+  add_one_1: #点击文件
+    x: 78
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击导出
+    x: 115
+    y: 220
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击导出glb
+    x: 262
+    y: 427
+    clicks: 1
+    button: left
+    duration: 0.2
+#导入glb
+ClickImportGlb:
+  add_one_1: #点击文件
+    x: 78
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击导入
+    x: 115
+    y: 193
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击导入glb
+    x: 263
+    y: 328
+    clicks: 1
+    button: left
+    duration: 0.2
+#导出gltf
+ClickExportGltf:
+  add_one_1: #点击文件
+    x: 78
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击导出
+    x: 115
+    y: 220
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击导出gltf
+    x: 262
+    y: 399
+    clicks: 1
+    button: left
+    duration: 0.2
+#导入gltf
+ClickImportGltf:
+  add_one_1: #点击文件
+    x: 78
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击导入
+    x: 115
+    y: 193
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击导入gltf
+    x: 263
+    y: 295
+    clicks: 1
+    button: left
+    duration: 0.2
+#导出Alembic
+ClickExportAlembic:
+  add_one_1: #点击文件
+    x: 78
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击导出
+    x: 115
+    y: 220
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击导出Alembic
+    x: 262
+    y: 436
+    clicks: 1
+    button: left
+    duration: 0.2
+#导入Alembic
+ClicImportAlembic:
+  add_one_1: #点击文件
+    x: 62
+    y: 15
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击导入
+    x: 82
+    y: 182
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击导入Alembic
+    x: 216
+    y: 341
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#另存为项目文件
+ClickSaveAsSproj:
+  add_one_1: #点击文件
+    x: 65
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击另存为
+    x: 96
+    y: 162
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击另存为项目文件
+    x: 251
+    y: 160
+    clicks: 1
+    button: left
+    duration: 0.2
+#保存项目
+ClickSaveProject:
+  add_one_1: #点击文件
+    x: 78
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击保存项目
+    x: 117
+    y: 138
+    clicks: 1
+    button: left
+    duration: 0.2
+#另存为服装文件
+ClickSaveAsSgar:
+  add_one_1: #点击文件
+    x: 78
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击另存为
+    x: 117
+    y: 166
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击另存为服装文件
+    x: 270
+    y: 193
+    clicks: 1
+    button: left
+    duration: 0.2
+#另存为虚拟模特
+ClickSaveAsAvatar:
+  add_one_1: #点击文件
+    x: 78
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击另存为
+    x: 117
+    y: 166
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击另存为虚拟模特
+    x: 270
+    y: 220
+    clicks: 1
+    button: left
+    duration: 0.2
+#打开工程文件
+ClickOpenSproj:
+  add_one_1: #点击文件
+    x: 78
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击打开
+    x: 117
+    y: 73
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击打开工程文件
+    x: 270
+    y: 73
+    clicks: 1
+    button: left
+    duration: 0.2
+#打开场景文件
+ClickOpenScene:
+  add_one_1: #点击文件
+    x: 78
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击打开
+    x: 117
+    y: 73
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击打开场景文件
+    x: 270
+    y: 155
+    clicks: 1
+    button: left
+    duration: 0.2
+#打开最近使用
+ClickRecentFiles:
+  add_one_1: #点击文件
+    x: 78
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击打开最近使用
+    x: 117
+    y: 101
+    clicks: 1
+    button: left
+    duration: 0.2
+#打开服装文件
+ClickOpenSgar:
+  add_one_1: #点击文件
+    x: 78
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击打开
+    x: 117
+    y: 73
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击打开服装文件
+    x: 270
+    y: 101
+    clicks: 1
+    button: left
+    duration: 0.2
+#打开虚拟模特
+ClickOpenAvatar:
+  add_one_1: #点击文件
+    x: 78
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击打开
+    x: 117
+    y: 73
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击打开虚拟模特
+    x: 270
+    y: 128
+    clicks: 1
+    button: left
+    duration: 0.2
+#新建工程
+ClickNewProject:
+  add_one_1: #点击文件
+    x: 78
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击新建
+    x: 117
+    y: 47
+    clicks: 1
+    button: left
+    duration: 0.2
+#
+ClickNewProjectOnly:
+  add_one_1:
+    x: 118
+    y: 20
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2:
+    x: 60
+    y: 60
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击前视角
+ClickViewport2:
+  add_one_1: #点击设置
+    x: 470
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击显示
+    x: 60
+    y: 60
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击视角
+    x: 77
+    y: 90
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_4: #点击前
+    x: 160
+    y: 90
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击后视角
+ClickViewport8:
+  add_one_1: #点击设置
+    x: 470
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击显示
+    x: 60
+    y: 60
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击视角
+    x: 77
+    y: 90
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_4: #点击后
+    x: 160
+    y: 117
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击左视角
+ClickViewport4:
+  add_one_1: #点击设置
+    x: 470
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击显示
+    x: 60
+    y: 60
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击视角
+    x: 77
+    y: 90
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_4: #点击左
+    x: 160
+    y: 145
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击右视角
+ClickViewport6:
+  add_one_1: #点击设置
+    x: 470
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击显示
+    x: 60
+    y: 60
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击视角
+    x: 77
+    y: 90
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_4: #点击右
+    x: 160
+    y: 172
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击上视角
+ClickViewport5:
+  add_one_1: #点击设置
+    x: 470
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击显示
+    x: 60
+    y: 60
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击视角
+    x: 77
+    y: 90
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_4: #点击上
+    x: 160
+    y: 198
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击下视角
+ClickViewport0:
+  add_one_1: #点击设置
+    x: 470
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击显示
+    x: 60
+    y: 60
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击视角
+    x: 77
+    y: 90
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_4: #点击下
+    x: 160
+    y: 225
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击对焦
+ClickViewportF:
+  add_one_1: #点击设置
+    x: 470
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击显示
+    x: 60
+    y: 60
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击视角
+    x: 77
+    y: 90
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_4: #点击对焦
+    x: 160
+    y: 252
+    clicks: 1
+    button: left
+    duration: 0.2
+#显示虚拟模特
+ClickShowAvatar:
+  add_one_1: #点击设置
+    x: 470
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击显示
+    x: 60
+    y: 60
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击模特
+    x: 77
+    y: 145
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_4: #点击虚拟模特
+    x: 200
+    y: 145
+    clicks: 1
+    button: left
+    duration: 0.2
+#显示虚拟模特尺寸
+ClickShowAvatarMeasure:
+  add_one_1: #点击设置
+    x: 470
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击显示
+    x: 60
+    y: 60
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击模特
+    x: 77
+    y: 145
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_4: #点击虚拟模特尺寸
+    x: 200
+    y: 171
+    clicks: 1
+    button: left
+    duration: 0.2
+#显示安排点
+ClickShowArrangementPointsA:
+  add_one_1: #点击设置
+    x: 470
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击显示
+    x: 60
+    y: 60
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击模特
+    x: 77
+    y: 145
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_4: #点击安排点
+    x: 200
+    y: 199
+    clicks: 1
+    button: left
+    duration: 0.2
+#显示服装
+ClickShowGarment:
+  add_one_1: #点击设置
+    x: 470
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击显示
+    x: 60
+    y: 60
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击服装
+    x: 77
+    y: 117
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_4: #点击显示服装
+    x: 200
+    y: 117
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#点击动画编辑器
+ClickAnimationEditor:
+  add_one_1: #点击工具
+    x: 298
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击动画编辑器
+    x: 246
+    y: 49
+    clicks: 1
+    button: left
+    duration: 0.2
+#添加假缝
+ClickAddtack:
+  click_one_1: #点击开始
+    x: 171
+    y: 17
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_2: #点击添加假缝
+    x: 1201
+    y: 48
+    clicks: 1
+    button: left
+    duration: 0.2
+#编辑假缝
+ClickEditTack:
+  click_one_1: #点击开始
+    x: 171
+    y: 17
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_2: #点击下拉
+    x: 1222
+    y: 52
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_3: #点击编辑假缝
+    x: 1220
+    y: 130
+    clicks: 1
+    button: left
+    duration: 0.2
+#添加假缝到模特
+ClickTackToAvatar:
+  add_one_1: #点击开始
+    x: 197
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击下拉
+    x: 1223
+    y: 52
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击添加假缝到模特
+    x: 1218
+    y: 103
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击2D窗口注释
+ClickPopbuttonShowAddannotation:
+  add_one_1: #点击注释
+    x: 33
+    y: 246
+    clicks: 1
+    button: left
+    duration: 0.2
+ClickAddannotationWarningClose:
+  click_one_1: #点击版片外注释弹框，点击确定
+    x: 1061
+    y: 605
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击3d快照
+ClickSnapshot3D:
+  add_one_1: #点击工具
+    x: 280
+    y: 13
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击3d快照
+    x: 51
+    y: 51
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击2d快照
+ClickSnapshot2D:
+  add_one_1: #点击工具
+    x: 280
+    y: 13
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击2d快照
+    x: 128
+    y: 52
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击2d快照选项
+ClickSnapshot2DOption:
+  click_one_1: #点击重置
+    x: 855
+    y: 924
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_2: #点击显示线
+    x: 832
+    y: 424
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_3: #点击毛边宽度
+    x: 1040
+    y: 645
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_4: #点击毛边线宽度
+    x: 1040
+    y: 695
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_5: #点击输出路径
+    x: 832
+    y: 719
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_6: #点击显示纹理
+    x: 832
+    y: 740
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_7: #点击显示版片文字
+    x: 832
+    y: 830
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_8: #点击保存
+    x: 993
+    y: 925
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_9: #点击保存成功弹框
+    x: 957
+    y: 493
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_10: #点击分辨率输入框
+    x: 1050
+    y: 327
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_11: #点击保存，毛边关闭的时候
+    x: 992
+    y: 832
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#点击排料
+ClickMarker:
+  add_one_1: #点击素材
+    x: 236
+    y: 13
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击排料
+    x: 112
+    y: 52
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击开始排料
+    x: 158
+    y: 110
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#点击选择
+ClickSelect:
+  add_one_1: #点击开始
+    x: 171
+    y: 16
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击选择/移动
+    x: 49
+    y: 49
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击普通模拟
+ClickNormalSimilate:
+  add_one_1: #点击开始
+    x: 197
+    y: 18
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击模拟尖角
+    x: 1307
+    y: 48
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击模拟
+    x: 1307
+    y: 101
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_4: #点击模拟按钮
+    x: 1284
+    y: 47
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击固定针箱体
+ClickFixpinBox:
+  add_one_1: #点击开始
+    x: 192
+    y: 16
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击下拉
+    x: 1240
+    y: 46
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_3: #点击固定针箱体
+    x: 1252
+    y: 74
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击离线渲染
+ClickPhotoRendering:
+  add_one_1: #点击工具
+    x: 298
+    y: 14
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击离线渲染
+    x: 205
+    y: 53
+    clicks: 1
+    button: left
+    duration: 0.2
+#点击偏好设置
+ClickUserSettings:
+  add_one_1: #点击设置
+    x: 366
+    y: 11
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击偏好设置
+    x: 113
+    y: 56
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#导入DXF专项
+ImportDxfSubject:
+  click_one_1:  #1:点击重置
+    x: 857
+    y: 625
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_2: #2:未展开选项时点击确定
+    x: 992
+    y: 625
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_3:  #3:点击选项
+    x: 849
+    y: 566
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_4:  #4:勾选版片自动排序
+    x: 884
+    y: 708
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_5: #5:勾选将基础线勾勒为内部线
+    x: 884
+    y: 736
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_6: #6:导入缝边刀口到净边
+    x: 884
+    y: 764
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_7: #7:减少端点（平滑点）
+    x: 884
+    y: 791
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_8: #8:勾选修正轮廓至内侧净边
+    x: 884
+    y: 820
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_9: #9:根据面料名称新建面料
+    x: 884
+    y: 848
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_10: #10:展开选项后点击确认
+    x: 992
+    y: 900
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_11: #11:导入的dxf点数过多，是否继续，点击导入
+    x: 989
+    y: 603
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#从DXF替换版片
+ReplacePatternFromDxf:
+  click_one_1:  #1:点击重置
+    x: 844
+    y: 628
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_2: #2:未展开选项时点击确定
+    x: 1005
+    y: 597
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#开启面料纹理
+ClickClothTexturedSurface:
+  click_one_1:  #1:点击2D面料纹理
+    x: 31
+    y: 135
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_2: #2:点击3D面料纹理
+    x: 834
+    y: 248
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#点击编辑版片
+ClickEditPattern:
+  add_one_1: #点击开始
+    x: 162
+    y: 12
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击编辑版片
+    x: 112
+    y: 51
+    clicks: 1
+    button: left
+    duration: 0.2
+
+#点击勾勒轮廓
+ClickTrace:
+  add_one_1: #点击开始
+    x: 193
+    y: 12
+    clicks: 1
+    button: left
+    duration: 0.2
+  add_one_2: #点击勾勒轮廓
+    x: 295
+    y: 55
+    clicks: 1
+    button: left
+    duration: 0.2
+
+
+#图案，录制的脚本坐标
+Graphic:
+  #2D新增图案，放大视角后，拖拽
+  add_one_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 248
+    y: 376
+  add_one_10:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 225
+    y: 48
+  add_one_11taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 225
+    y: 48
+  add_one_12:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 243
+    y: 365
+  add_one_13taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 243
+    y: 365
+  add_one_14:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 29
+    y: 144
+  add_one_15taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 29
+    y: 144
+  add_one_16:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 257
+    y: 400
+  add_one_17taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 257
+    y: 400
+  add_one_26:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 170
+    y: 56
+  add_one_27taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 170
+    y: 56
+  add_one_28:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 252
+    y: 423
+  add_one_29taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 473
+    y: 304
+  add_one_2taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 248
+    y: 376
+  add_one_3:
+    Keyboard: s
+    x: 1
+    y: 1
+  add_one_30:
+    Keyboard: o
+    x: 1
+    y: 1
+  add_one_4:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 248
+    y: 376
+  add_one_5taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 248
+    y: 376
+  add_one_6:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 982
+    y: 583
+  add_one_7taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 982
+    y: 583
+  add_one_8:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 245
+    y: 12
+  add_one_9taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 245
+    y: 12
+
+ #在版片外新增图案
+  add_two_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 220
+    y: 350
+  add_two_10:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 228
+    y: 51
+  add_two_11taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 228
+    y: 51
+  add_two_12:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 421
+    y: 524
+  add_two_13taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 421
+    y: 524
+  add_two_14:
+    Keyboard: o
+    x: 1
+    y: 1
+  add_two_2taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 220
+    y: 350
+  add_two_3:
+    Keyboard: s
+    x: 1
+    y: 1
+  add_two_4:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 296
+    y: 458
+  add_two_5taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 296
+    y: 458
+  add_two_6:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 983
+    y: 586
+  add_two_7taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 983
+    y: 586
+  add_two_8:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 254
+    y: 10
+  add_two_9taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 254
+    y: 10
+  # 在3D上新增图案，拖拽图案
+  add_three_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 218
+    y: 348
+  add_three_10taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 675
+    y: 202
+  add_three_11:
+    Keyboard: '9'
+    x: 1
+    y: 1
+  add_three_12:
+    Keyboard: '2'
+    x: 1
+    y: 1
+  add_three_13:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 247
+    y: 9
+  add_three_14taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 247
+    y: 9
+  add_three_15:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 231
+    y: 52
+  add_three_16taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 231
+    y: 52
+  add_three_17:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1026
+    y: 458
+  add_three_18taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1026
+    y: 458
+  add_three_19:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1012
+    y: 703
+  add_three_20taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1012
+    y: 703
+  add_three_21:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 172
+    y: 48
+  add_three_22taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 172
+    y: 48
+  add_three_23:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1017
+    y: 715
+  add_three_24taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1379
+    y: 606
+  add_three_25:
+    Keyboard: o
+    x: 1
+    y: 1
+  add_three_2taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 218
+    y: 347
+  add_three_3:
+    Keyboard: s
+    x: 1
+    y: 1
+  add_three_4:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 249
+    y: 414
+  add_three_5taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 249
+    y: 414
+  add_three_6:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 974
+    y: 584
+  add_three_7taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 974
+    y: 584
+  add_three_8:
+    Keyboard: q
+    x: 1
+    y: 1
+  add_three_9:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 675
+    y: 202
+  #在2D视窗右键弹框添加图案
+  add_four_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 210
+    y: 333
+  add_four_10taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 687
+    y: 199
+  add_four_11:
+    Keyboard: '9'
+    x: 1
+    y: 1
+  add_four_12:
+    Keyboard: '2'
+    x: 1
+    y: 1
+  add_four_13:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 246
+    y: 11
+  add_four_14taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 246
+    y: 11
+  add_four_15:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 235
+    y: 52
+  add_four_16taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 235
+    y: 52
+  add_four_17:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 295
+    y: 527
+  add_four_18taiqi:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 295
+    y: 527
+  add_four_19:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1052
+    y: 623
+  add_four_20taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 938
+    y: 625
+  add_four_21:
+    Keyboard: delete
+    x: 1
+    y: 1
+  add_four_22:
+    Keyboard: numpad1
+    x: 1
+    y: 1
+  add_four_23:
+    Keyboard: numpad2
+    x: 1
+    y: 1
+  add_four_24:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1060
+    y: 652
+  add_four_25taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 956
+    y: 651
+  add_four_26:
+    Keyboard: numpad4
+    x: 1
+    y: 1
+  add_four_27:
+    Keyboard: numpad5
+    x: 1
+    y: 1
+  add_four_28:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1055
+    y: 670
+  add_four_29taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 948
+    y: 673
+  add_four_3:
+    Keyboard: s
+    x: 1
+    y: 1
+  add_four_30:
+    Keyboard: numpad1
+    x: 1
+    y: 1
+  add_four_31:
+    Keyboard: numpad5
+    x: 1
+    y: 1
+  add_four_32:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 979
+    y: 718
+  add_four_33taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 979
+    y: 718
+  add_four_34:
+    Keyboard: o
+    x: 1
+    y: 1
+  add_four_4:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 210
+    y: 333
+  add_four_5taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 210
+    y: 333
+  add_four_6:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 989
+    y: 580
+  add_four_7taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 989
+    y: 580
+  add_four_8:
+    Keyboard: q
+    x: 1
+    y: 1
+  add_four_9:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 687
+    y: 199
+#在2D视窗右键弹框添加图案， 边距修改
+  add_five_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 266
+    y: 308
+  add_five_10up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 710
+    y: 180
+  add_five_11:
+    Keyboard: '9'
+    x: 1
+    y: 1
+  add_five_12:
+    Keyboard: '2'
+    x: 1
+    y: 1
+  add_five_13:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 235
+    y: 10
+  add_five_14up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 235
+    y: 10
+  add_five_15:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 229
+    y: 47
+  add_five_16up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 229
+    y: 47
+  add_five_17:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 269
+    y: 530
+  add_five_18up:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 269
+    y: 530
+  add_five_19:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1054
+    y: 450
+  add_five_20up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 899
+    y: 429
+  add_five_21:
+    Keyboard: del
+    x: 1
+    y: 1
+  add_five_22:
+    Keyboard: numpad3
+    x: 1
+    y: 1
+  add_five_23:
+    Keyboard: numpad5
+    x: 1
+    y: 1
+  add_five_24:
+    Keyboard: numpad0
+    x: 1
+    y: 1
+  add_five_25:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1050
+    y: 514
+  add_five_26up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 925
+    y: 525
+  add_five_27:
+    Keyboard: del
+    x: 1
+    y: 1
+  add_five_28:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1052
+    y: 518
+  add_five_29up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 918
+    y: 513
+  add_five_3:
+    Keyboard: s
+    x: 1
+    y: 1
+  add_five_30:
+    Keyboard: del
+    x: 1
+    y: 1
+  add_five_31:
+    Keyboard: numpad1
+    x: 1
+    y: 1
+  add_five_32:
+    Keyboard: numpad3
+    x: 1
+    y: 1
+  add_five_33:
+    Keyboard: numpad0
+    x: 1
+    y: 1
+  add_five_34:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 986
+    y: 716
+  add_five_35up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 986
+    y: 717
+  add_five_37:
+    Keyboard: o
+    x: 1
+    y: 1
+  add_five_4:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 272
+    y: 337
+  add_five_5up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 272
+    y: 337
+  add_five_6:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 993
+    y: 586
+  add_five_7up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 993
+    y: 586
+  add_five_8:
+    Keyboard: q
+    x: 1
+    y: 1
+  add_five_9:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 710
+    y: 180
+
+ # 场景管理双击图案，切换到图案模式添加
+  add_six_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 224
+    y: 367
+  add_six_10:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1672
+    y: 185
+  add_six_11taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1672
+    y: 185
+  add_six_12:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1672
+    y: 185
+  add_six_13taiqi:
+    button: left
+    clicks: 2
+    duration: 0.2
+    x: 1672
+    y: 185
+  add_six_14:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 927
+    y: 557
+  add_six_15taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 927
+    y: 557
+  add_six_16:
+    Keyboard: '2'
+    x: 1
+    y: 1
+  add_six_17:
+    Keyboard: o
+    x: 1
+    y: 1
+  add_six_3:
+    Keyboard: s
+    x: 1
+    y: 1
+  add_six_4:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 226
+    y: 369
+  add_six_5taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 226
+    y: 369
+  add_six_6:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 993
+    y: 583
+  add_six_7taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 993
+    y: 583
+  add_six_8:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1605
+    y: 165
+  add_six_9taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1605
+    y: 164
+
+  #属性栏角度，网格面修改
+  change_one_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 267
+    y: 371
+  change_one_4:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 267
+    y: 371
+  change_one_6:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 986
+    y: 579
+  change_one_8:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 243
+    y: 12
+  change_one_10:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 238
+    y: 58
+  change_one_12:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 241
+    y: 347
+  change_one_15:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1233
+    y: 444
+  change_one_17:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1834
+    y: 566
+  change_one1_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1225
+    y: 711
+  change_one1_10:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1773
+    y: 653
+  change_one1_11up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1762
+    y: 653
+  change_one1_12:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1763
+    y: 708
+  change_one1_13up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1763
+    y: 708
+  change_one1_14:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1883
+    y: 567
+  change_one1_15up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1883
+    y: 567
+  change_one1_16:
+    Keyboard: numpad3
+    x: 1
+    y: 1
+  change_one1_17:
+    Keyboard: numpad0
+    x: 1
+    y: 1
+  change_one1_18:
+    Keyboard: enter
+    x: 1
+    y: 1
+  change_one1_19:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1770
+    y: 714
+  change_one1_20up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1784
+    y: 682
+  change_one1_21:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1768
+    y: 784
+  change_one1_22up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1768
+    y: 759
+  change_one1_23:
+    Keyboard: o
+    x: 1
+    y: 1
+  change_one1_3:
+    Keyboard: '8'
+    x: 1
+    y: 1
+  change_one1_4:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1841
+    y: 655
+  change_one1_5up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1841
+    y: 655
+  change_one1_6:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1767
+    y: 710
+  change_one1_7up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1767
+    y: 710
+  change_one1_8:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1370
+    y: 552
+  change_one1_9up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1370
+    y: 552
+
+
+#图案大小修改，图案工艺效果修改
+  change_two_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 255
+    y: 347
+  change_two_10:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 698
+    y: 215
+  change_two_11up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 698
+    y: 215
+  change_two_12:
+    Keyboard: '9'
+    x: 1
+    y: 1
+  change_two_13:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 240
+    y: 0
+  change_two_14up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 240
+    y: 0
+  change_two_15:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 235
+    y: 54
+  change_two_16up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 235
+    y: 53
+  change_two_17:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 253
+    y: 415
+  change_two_18up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 253
+    y: 415
+  change_two_19:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 538
+    y: 649
+  change_two_20up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 538
+    y: 649
+  change_two_21:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1731
+    y: 536
+  change_two_22up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1731
+    y: 536
+  change_two_24:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1883
+    y: 569
+  change_two_25up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1883
+    y: 569
+  change_two_26:
+    Keyboard: del
+    x: 1
+    y: 1
+  change_two_27:
+    Keyboard: numpad2
+    x: 1
+    y: 1
+  change_two_28:
+    Keyboard: numpad5
+    x: 1
+    y: 1
+  change_two_29:
+    Keyboard: numpad0
+    x: 1
+    y: 1
+  change_two_3:
+    Keyboard: s
+    x: 1
+    y: 1
+  change_two_30:
+    Keyboard: enter
+    x: 1
+    y: 1
+  change_two_32:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1796
+    y: 716
+  change_two_33up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1770
+    y: 735
+  change_two_34:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1780
+    y: 755
+  change_two_35up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1780
+    y: 780
+  change_two_37:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1761
+    y: 738
+  change_two_38up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1761
+    y: 738
+  change_two_39:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1788
+    y: 804
+  change_two_4:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 255
+    y: 347
+  change_two_40up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1789
+    y: 835
+  change_two_42:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1774
+    y: 735
+  change_two_43up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1774
+    y: 735
+  change_two_44:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1788
+    y: 886
+  change_two_45up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1789
+    y: 914
+  change_two_47:
+    Keyboard: o
+    x: 1
+    y: 1
+  change_two_5up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 255
+    y: 347
+  change_two_6:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 998
+    y: 593
+  change_two_7up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 998
+    y: 593
+  change_two_8:
+    Keyboard: '2'
+    x: 1
+    y: 1
+  change_two_9:
+    Keyboard: q
+    x: 1
+    y: 1
+
+
+#图案使用织物镂空
+  change_three_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1649
+    y: 187
+  change_three_10:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1881
+    y: 796
+  change_three_11up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1881
+    y: 795
+  change_three_12:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1751
+    y: 872
+  change_three_13up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1751
+    y: 872
+  change_three_15:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 948
+    y: 524
+  change_three_16up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 172
+    y: 51
+  change_three_17:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1271
+    y: 554
+  change_three_18up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1271
+    y: 555
+  change_three_19:
+    Keyboard: del
+    x: 1
+    y: 1
+  change_three_20:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1663
+    y: 193
+  change_three_21up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1129
+    y: 611
+  change_three_22:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1705
+    y: 534
+  change_three_23up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1705
+    y: 533
+  change_three_25:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1890
+    y: 800
+  change_three_26up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1881
+    y: 790
+  change_three_27:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1740
+    y: 858
+  change_three_28up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1758
+    y: 876
+  change_three_3:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 176
+    y: 50
+  change_three_30:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1879
+    y: 792
+  change_three_31up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1879
+    y: 792
+  change_three_32:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1781
+    y: 879
+  change_three_33up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1781
+    y: 879
+  change_three_35:
+    Keyboard: o
+    x: 1
+    y: 1
+  change_three_4up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 176
+    y: 50
+  change_three_5:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1252
+    y: 533
+  change_three_6up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1252
+    y: 533
+  change_three_7:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1706
+    y: 536
+  change_three_8up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1706
+    y: 536
+
+#添加时2D测量，外框预览
+  show_one_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 309
+    y: 397
+  show_one_10taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 710
+    y: 193
+  show_one_11:
+    Keyboard: '9'
+    x: 1
+    y: 1
+  show_one_12:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 281
+    y: 14
+  show_one_13taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 281
+    y: 14
+  show_one_14:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 230
+    y: 11
+  show_one_15taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 230
+    y: 12
+  show_one_16:
+    Keyboard: '2'
+    x: 1
+    y: 1
+  show_one_17:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 236
+    y: 53
+  show_one_18taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 236
+    y: 53
+  show_one_19:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 809
+    y: 1054
+  show_one_20taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 809
+    y: 1054
+  show_one_21:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 234
+    y: 12
+  show_one_22taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 304
+    y: 220
+  show_one_23:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 235
+    y: 50
+  show_one_24taiqi:
+    button: left
+    clicks: 2
+    duration: 2
+    x: 289
+    y: 287
+  show_one_25:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1813
+    y: 29
+  show_one_26taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1813
+    y: 29
+  show_one_27:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 392
+    y: 562
+  show_one_28taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 392
+    y: 562
+  show_one_29:
+    Keyboard: o
+    x: 1
+    y: 1
+  show_one_3:
+    Keyboard: s
+    x: 1
+    y: 1
+  show_one_4:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 309
+    y: 393
+  show_one_5taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 309
+    y: 393
+  show_one_6:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 971
+    y: 581
+  show_one_7taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 971
+    y: 581
+  show_one_8:
+    Keyboard: q
+    x: 1
+    y: 1
+  show_one_9:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 710
+    y: 193
+#图案显示2D测量
+  show_two_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 401
+    y: 393
+  show_two_10up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 566
+    y: 484
+  show_two_11:
+    Keyboard: '9'
+    x: 1
+    y: 1
+  show_two_12:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 914
+    y: 313
+  show_two_13up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 914
+    y: 313
+  show_two_14:
+    Keyboard: '2'
+    x: 1
+    y: 1
+  show_two_15:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 235
+    y: 13
+  show_two_16up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 235
+    y: 13
+  show_two_17:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 235
+    y: 52
+  show_two_18up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 235
+    y: 52
+  show_two_19:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 259
+    y: 451
+  show_two_20up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 259
+    y: 451
+  show_two_21:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 487
+    y: 633
+  show_two_22up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 487
+    y: 633
+  show_two_23:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1889
+    y: 741
+  show_two_24up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1889
+    y: 741
+  show_two_25:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1889
+    y: 805
+  show_two_26up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1889
+    y: 805
+  show_two_27:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1883
+    y: 860
+  show_two_28up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1883
+    y: 860
+  show_two_29:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 169
+    y: 53
+  show_two_3:
+    Keyboard: s
+    x: 1
+    y: 1
+  show_two_30up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 169
+    y: 53
+  show_two_31:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 256
+    y: 442
+  show_two_32up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 256
+    y: 442
+  show_two_33:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1893
+    y: 767
+  show_two_34up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1893
+    y: 767
+  show_two_35:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1890
+    y: 830
+  show_two_36up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1890
+    y: 830
+  show_two_37:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1891
+    y: 888
+  show_two_38up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1891
+    y: 888
+  show_two_39:
+    Keyboard: o
+    x: 1
+    y: 1
+  show_two_4:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 399
+    y: 551
+  show_two_5up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 399
+    y: 551
+  show_two_6:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 991
+    y: 583
+  show_two_7up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 991
+    y: 583
+  show_two_8:
+    Keyboard: q
+    x: 1
+    y: 1
+  show_two_9:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 566
+    y: 484
+
+#2D, 3D拖拽，旋转图案
+  choose_one_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 214
+    y: 308
+  choose_one_10:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 238
+    y: 293
+  choose_one_11taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 238
+    y: 293
+  choose_one_12:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 238
+    y: 293
+  choose_one_13taiqi:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 238
+    y: 293
+  choose_one_14:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 442
+    y: 366
+  choose_one_15taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 442
+    y: 366
+  choose_one_16:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 451
+    y: 320
+  choose_one_17taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 451
+    y: 320
+  choose_one_18:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 696
+    y: 180
+  choose_one_19taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 696
+    y: 180
+  choose_one_20:
+    Keyboard: '9'
+    x: 1
+    y: 1
+  choose_one_21:
+    Keyboard: '2'
+    x: 1
+    y: 1
+  choose_one_22:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 236
+    y: 9
+  choose_one_23taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 236
+    y: 9
+  choose_one_24:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 232
+    y: 65
+  choose_one_25taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 232
+    y: 65
+  choose_one_26:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 201
+    y: 534
+  choose_one_27taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 201
+    y: 534
+  choose_one_28:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 267
+    y: 581
+  choose_one_29taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 267
+    y: 581
+  choose_one_3:
+    Keyboard: q
+    x: 1
+    y: 1
+  choose_one_30:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 526
+    y: 610
+  choose_one_31taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 526
+    y: 610
+  choose_one_32:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 595
+    y: 610
+  choose_one_33taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 595
+    y: 610
+  choose_one_34:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1828
+    y: 136
+  choose_one_35taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1833
+    y: 139
+  choose_one_36:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1853
+    y: 139
+  choose_one_37taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1734
+    y: 196
+  choose_one_38:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1652
+    y: 226
+  choose_one_39taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1345
+    y: 515
+  choose_one_4:
+    Keyboard: s
+    x: 1
+    y: 1
+  choose_one_40:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1457
+    y: 513
+  choose_one_41taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1457
+    y: 513
+  choose_one_42:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 169
+    y: 61
+  choose_one_66:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1369
+    y: 513
+  choose_one_67:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 171
+    y: 51
+  choose_one_68:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 200
+    y: 534
+  choose_one_43taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 169
+    y: 61
+  choose_one_44:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 108
+    y: 390
+  choose_one_45taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 356
+    y: 659
+  choose_one_46:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 219
+    y: 511
+  choose_one_47taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 251
+    y: 494
+  choose_one_48:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 232
+    y: 486
+  choose_one_49taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 256
+    y: 513
+  choose_one_5:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 215
+    y: 320
+  choose_one_50:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1343
+    y: 485
+  choose_one_51taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1331
+    y: 475
+  choose_one_52:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1502
+    y: 559
+  choose_one_53taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1313
+    y: 458
+  choose_one_54:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1457
+    y: 459
+  choose_one_55taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1421
+    y: 480
+  choose_one_56:
+    Keyboard: o
+    x: 1
+    y: 1
+  choose_one_6taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 215
+    y: 320
+  choose_one_7:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 996
+    y: 581
+  choose_one_8taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 996
+    y: 581
+  choose_one_9:
+    Keyboard: q
+    x: 1
+    y: 1
+#2D, 3D拖拽，图案到版片外
+  choose_two_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 178
+    y: 271
+  choose_two_10:
+    Keyboard: q
+    x: 1
+    y: 1
+  choose_two_11:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 701
+    y: 186
+  choose_two_12taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 701
+    y: 186
+  choose_two_13:
+    Keyboard: '9'
+    x: 1
+    y: 1
+  choose_two_14:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 244
+    y: 16
+  choose_two_15taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 244
+    y: 16
+  choose_two_16:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 226
+    y: 52
+  choose_two_17taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 226
+    y: 52
+  choose_two_18:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 272
+    y: 500
+  choose_two_19taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 272
+    y: 500
+  choose_two_20:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 487
+    y: 694
+  choose_two_21taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 487
+    y: 693
+  choose_two_22:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 172
+    y: 50
+  choose_two_23taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 172
+    y: 50
+  choose_two_24:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 280
+    y: 491
+  choose_two_25taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 349
+    y: 947
+  choose_two_26:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1302
+    y: 751
+  choose_two_27taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 962
+    y: 111
+  choose_two_28:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 347
+    y: 907
+  choose_two_29taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 520
+    y: 606
+  choose_two_3:
+    Keyboard: q
+    x: 1
+    y: 1
+  choose_two_30:
+    Keyboard: o
+    x: 1
+    y: 1
+  choose_two_4:
+    Keyboard: s
+    x: 1
+    y: 1
+  choose_two_5:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 363
+    y: 485
+  choose_two_6taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 363
+    y: 485
+  choose_two_7:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 986
+    y: 578
+  choose_two_8taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 986
+    y: 578
+  choose_two_9:
+    Keyboard: '2'
+    x: 1
+    y: 1
+
+#右键功能
+  right_one_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 270
+    y: 375
+  right_one_10:
+    Keyboard: q
+    x: 1
+    y: 1
+  right_one_11:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 276
+    y: 385
+  right_one_12taiqi:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 276
+    y: 385
+  right_one_13:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 372
+    y: 51
+  right_one_14taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 372
+    y: 51
+  right_one_15:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 452
+    y: 422
+  right_one_16taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 452
+    y: 422
+  right_one_17:
+    Keyboard: '2'
+    x: 1
+    y: 1
+  right_one_18:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 669
+    y: 223
+  right_one_19taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 669
+    y: 223
+  right_one_20:
+    Keyboard: '9'
+    x: 1
+    y: 1
+  right_one_21:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 244
+    y: 15
+  right_one_22taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 244
+    y: 15
+  right_one_23:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 229
+    y: 55
+  right_one_24taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 229
+    y: 54
+  right_one_25:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 199
+    y: 527
+  right_one_26taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 199
+    y: 527
+  right_one_27:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 167
+    y: 46
+  right_one_28taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 168
+    y: 46
+  right_one_29:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 193
+    y: 522
+  right_one_3:
+    Keyboard: s
+    x: 1
+    y: 1
+  right_one_30taiqi:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 193
+    y: 522
+  right_one_31:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 232
+    y: 560
+  right_one_32taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 232
+    y: 560
+  right_one_33:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 199
+    y: 523
+  right_one_34taiqi:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 199
+    y: 523
+  right_one_35:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 240
+    y: 595
+  right_one_36taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 240
+    y: 595
+  right_one_37:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 281
+    y: 526
+  right_one_38taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 281
+    y: 526
+  right_one_39:
+    Keyboard: j
+    x: 1
+    y: 1
+  right_one_4:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 262
+    y: 413
+  right_one_40:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 200
+    y: 527
+  right_one_41taiqi:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 200
+    y: 527
+  right_one_42:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 250
+    y: 629
+  right_one_43taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 250
+    y: 629
+  right_one_44:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 197
+    y: 590
+  right_one_45taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 197
+    y: 590
+  right_one_46:
+    Keyboard: j
+    x: 1
+    y: 1
+  right_one_47:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 198
+    y: 520
+  right_one_48taiqi:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 198
+    y: 520
+  right_one_49:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 279
+    y: 638
+  right_one_50taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 279
+    y: 638
+  right_one_51:
+    Keyboard: j
+    x: 1
+    y: 1
+  right_one_52:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 196
+    y: 518
+  right_one_53taiqi:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 196
+    y: 518
+  right_one_54:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 264
+    y: 666
+  right_one_55taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 264
+    y: 666
+  right_one_56:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 393
+    y: 691
+  right_one_57taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 393
+    y: 691
+  right_one_58:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 1455
+    y: 513
+  right_one_59taiqi:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 1455
+    y: 513
+  right_one_5taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 262
+    y: 414
+  right_one_6:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 262
+    y: 414
+  right_one_60:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 197
+    y: 591
+  right_one_61taiqi:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 197
+    y: 591
+  right_one_62:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 348
+    y: 739
+  right_one_63taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 348
+    y: 739
+  right_one_64:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 392
+    y: 791
+  right_one_65taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 398
+    y: 793
+  right_one_66:
+    Keyboard: j
+    x: 1
+    y: 1
+  right_one_67:
+    Keyboard: o
+    x: 1
+    y: 1
+  right_one_7taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 262
+    y: 414
+  right_one_8:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1000
+    y: 582
+  right_one_9taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1000
+    y: 582
+
+#2D右键旋转，水平翻转，垂直翻转
+  right_two_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 240
+    y: 331
+  right_two_10taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 662
+    y: 230
+  right_two_11:
+    Keyboard: '9'
+    x: 1
+    y: 1
+  right_two_12:
+    Keyboard: '2'
+    x: 1
+    y: 1
+  right_two_13:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 240
+    y: 7
+  right_two_14taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 240
+    y: 8
+  right_two_15:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 226
+    y: 48
+  right_two_16taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 226
+    y: 48
+  right_two_17:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 252
+    y: 408
+  right_two_18taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 252
+    y: 408
+  right_two_19:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 393
+    y: 565
+  right_two_20taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 393
+    y: 565
+  right_two_21:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 568
+    y: 712
+  right_two_22taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 570
+    y: 712
+  right_two_23:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 185
+    y: 59
+  right_two_24taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 185
+    y: 58
+  right_two_25:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 257
+    y: 416
+  right_two_26taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 257
+    y: 416
+  right_two_27:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 257
+    y: 416
+  right_two_28taiqi:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 388
+    y: 590
+  right_two_29:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 484
+    y: 612
+  right_two_3:
+    Keyboard: s
+    x: 1
+    y: 1
+  right_two_30taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 484
+    y: 612
+  right_two_32:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 389
+    y: 567
+  right_two_33taiqi:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 389
+    y: 567
+  right_two_34:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 451
+    y: 770
+  right_two_35taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 451
+    y: 770
+  right_two_37:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 555
+    y: 707
+  right_two_38taiqi:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 555
+    y: 707
+  right_two_39:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 618
+    y: 933
+  right_two_4:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 240
+    y: 331
+  right_two_40taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 618
+    y: 933
+  right_two_42:
+    Keyboard: o
+    x: 1
+    y: 1
+  right_two_5taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 240
+    y: 331
+  right_two_6:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 973
+    y: 585
+  right_two_7taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 973
+    y: 585
+  right_two_8:
+    Keyboard: q
+    x: 1
+    y: 1
+  right_two_9:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 662
+    y: 230
+
+#2D对焦，勾勒
+  right_three_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 263
+    y: 367
+  right_three_10:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 244
+    y: 50
+  right_three_11up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 244
+    y: 50
+  right_three_12:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 260
+    y: 370
+  right_three_13up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 260
+    y: 370
+  right_three_14:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 180
+    y: 40
+  right_three_15up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 180
+    y: 41
+  right_three_16:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 260
+    y: 360
+  right_three_17up:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 260
+    y: 360
+  right_three_18:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 297
+    y: 610
+  right_three_19up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 297
+    y: 610
+  right_three_20:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 375
+    y: 555
+  right_three_21up:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 375
+    y: 555
+  right_three_22:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 444
+    y: 850
+  right_three_23up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 444
+    y: 850
+  right_three_24:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 405
+    y: 534
+  right_three_25up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 517
+    y: 601
+  right_three_27:
+    Keyboard: o
+    x: 1
+    y: 1
+  right_three_3:
+    Keyboard: s
+    x: 1
+    y: 1
+  right_three_4:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 263
+    y: 367
+  right_three_5up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 263
+    y: 367
+  right_three_6:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 992
+    y: 578
+  right_three_7up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 992
+    y: 579
+  right_three_8:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 245
+    y: 13
+  right_three_9up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 245
+    y: 13
+#2D图案顺序，添加组，解除组
+  right_four_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 240
+    y: 317
+  right_four_10:
+    Keyboard: q
+    x: 1
+    y: 1
+  right_four_11:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 686
+    y: 214
+  right_four_12taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 686
+    y: 213
+  right_four_13:
+    Keyboard: '9'
+    x: 1
+    y: 1
+  right_four_14:
+    Keyboard: '2'
+    x: 1
+    y: 1
+  right_four_15:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 244
+    y: 14
+  right_four_16taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 244
+    y: 14
+  right_four_17:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 226
+    y: 52
+  right_four_18taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 226
+    y: 52
+  right_four_19:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 269
+    y: 480
+  right_four_20taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 270
+    y: 480
+  right_four_21:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 301
+    y: 526
+  right_four_22taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 301
+    y: 526
+  right_four_23:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 436
+    y: 660
+  right_four_24taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 436
+    y: 660
+  right_four_25:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 538
+    y: 630
+  right_four_26taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 538
+    y: 630
+  right_four_27:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 166
+    y: 55
+  right_four_28taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 166
+    y: 55
+  right_four_29:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 309
+    y: 549
+  right_four_3:
+    Keyboard: s
+    x: 1
+    y: 1
+  right_four_30taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 309
+    y: 549
+  right_four_31:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 309
+    y: 549
+  right_four_32taiqi:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 309
+    y: 549
+  right_four_33:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 448
+    y: 827
+  right_four_34taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 449
+    y: 830
+  right_four_35:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 514
+    y: 913
+  right_four_36taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 268
+    y: 645
+  right_four_38:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 365
+    y: 490
+  right_four_39taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 608
+    y: 767
+  right_four_4:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 240
+    y: 317
+  right_four_40:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 526
+    y: 618
+  right_four_41taiqi:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 526
+    y: 618
+  right_four_42:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 668
+    y: 956
+  right_four_43taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 668
+    y: 956
+  right_four_44:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 728
+    y: 947
+  right_four_45taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 728
+    y: 957
+  right_four_5taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 240
+    y: 316
+  right_four_6:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 240
+    y: 316
+  right_four_7taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 240
+    y: 316
+  right_four_8:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1000
+    y: 584
+  right_four_9taiqi:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1000
+    y: 584
+  right_four_45:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 522
+    y: 639
+  right_four_46:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 671
+    y: 970
+  right_four_47:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 741
+    y: 960
+# 明线
+Topstitch:
+ # 线段明线hover 点击
+  show_one_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 398
+    y: 300
+  show_one_2:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 398
+    y: 300
+  show_one_3:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 418
+    y: 225
+
+ # 自由明线hover 点击
+  show_two_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 650
+    y: 380
+  show_two_2:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 650
+    y: 591
+  show_two_3:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 650
+    y: 591
+  show_two_4:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 721
+    y: 683
+ # 缝纫线明线hover 点击
+  show_three_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 143
+    y: 441
+  show_three_2:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 647
+    y: 490
+  show_three_3:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 650
+    y: 380
+  show_three_4:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 650
+    y: 591
+  show_three_5:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 650
+    y: 591
+  show_three_6:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 721
+    y: 683
+
+Puckering:
+ # 线段褶皱hover 点击
+  show_one_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 398
+    y: 300
+  show_one_2:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 398
+    y: 300
+  show_one_3:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 418
+    y: 225
+
+ # 自由褶皱hover 点击
+  show_two_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 650
+    y: 380
+  show_two_2:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 650
+    y: 591
+  show_two_3:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 650
+    y: 591
+  show_two_4:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 721
+    y: 683
+ # 缝纫线褶皱hover 点击
+  show_three_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 143
+    y: 441
+  show_three_2:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 647
+    y: 490
+  show_three_3:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 650
+    y: 380
+  show_three_4:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 650
+    y: 591
+  show_three_5:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 650
+    y: 591
+  show_three_6:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 721
+    y: 683
+
+
+#Cut专项
+Cut:
+  #2D版片剪切
+  #第一个方法的第一步
+  click_one_1:
+    x: 238
+    y: 306
+    clicks: 1
+    button: right
+    duration: 0.2
+  #第一个方法的第二步
+  click_one_2:
+    x: 296
+    y: 434
+    clicks: 1
+    button: left
+    duration: 0.2
+
+
+#剪切-三角化异常
+CutTriangulation-17366:
+  #jira-17366
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 508, y: 710}
+  click_one_19: {button: left, clicks: 1, duration: 0.2, x: 325, y: 534}
+  click_one_20up: {button: left, clicks: 1, duration: 0.2, x: 325, y: 534}
+  click_one_21: {Keyboard: ctrl, x: 1, y: 1}
+  click_one_22: {button: left, clicks: 1, duration: 0.2, x: 346, y: 535}
+  click_one_23up: {button: left, clicks: 2, duration: 2, x: 346, y: 535}
+  click_one_24: {Keyboard: ctrl, x: 1, y: 1}
+  click_one_25: {Keyboard: ctrl, x: 1, y: 1}
+  click_one_26: {Keyboard: ctrl, x: 1, y: 1}
+  click_one_27: {Keyboard: ctrl, x: 1, y: 1}
+  click_one_28: {Keyboard: ctrl, x: 1, y: 1}
+  click_one_29: {Keyboard: ctrl, x: 1, y: 1}
+  click_one_3: {button: left, clicks: 1, duration: 0.2, x: 213, y: 506}
+  click_one_30: {button: right, clicks: 1, duration: 0.2, x: 346, y: 535}
+  click_one_31up: {button: right, clicks: 1, duration: 0.2, x: 346, y: 535}
+  click_one_32: {button: left, clicks: 1, duration: 0.2, x: 396, y: 650}
+  click_one_33up: {button: left, clicks: 1, duration: 0.2, x: 396, y: 650}
+  click_one_34: {Keyboard: o, x: 1, y: 1}
+  click_one_4up: {button: left, clicks: 1, duration: 0.2, x: 213, y: 506}
+
+#jira-15181
+CutTriangulation-15181:
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 691, y: 412}
+  click_one_13: {button: left, clicks: 1, duration: 0.2, x: 464, y: 144}
+  click_one_14up: {button: left, clicks: 1, duration: 0.2, x: 464, y: 144}
+  click_one_20: {button: right, clicks: 1, duration: 0.2, x: 424, y: 182}
+  click_one_21up: {button: right, clicks: 1, duration: 0.2, x: 424, y: 182}
+  click_one_22: {button: left, clicks: 1, duration: 0.2, x: 474, y: 311}
+  click_one_23up: {button: left, clicks: 1, duration: 0.2, x: 474, y: 311}
+  click_one_24: {button: left, clicks: 1, duration: 0.2, x: 643, y: 487}
+  click_one_25up: {button: left, clicks: 1, duration: 0.2, x: 643, y: 487}
+  click_one_3: {button: left, clicks: 1, duration: 0.2, x: 26, y: 171}
+  click_one_32: {Keyboard: o, x: 1, y: 1}
+  click_one_4up: {button: left, clicks: 1, duration: 0.2, x: 26, y: 171}
+  click_one_5: {button: left, clicks: 1, duration: 0.2, x: 565, y: 247}
+  click_one_6up: {button: left, clicks: 1, duration: 0.2, x: 565, y: 247}
+
+
+#剪切-素材消失
+CutMaterialDisappearance-15560:
+  #jira-15560
+  click_one1: {button: left, clicks: 1, duration: 0.2, x: 399, y: 152}
+  click_one11: {button: right, clicks: 1, duration: 0.2, x: 401, y: 281}
+  click_one12up: {button: right, clicks: 1, duration: 0.2, x: 401, y: 281}
+  click_one13: {button: left, clicks: 1, duration: 0.2, x: 422, y: 318}
+  click_one14up: {button: left, clicks: 1, duration: 0.2, x: 422, y: 318}
+  click_one15: {Keyboard: o, x: 1, y: 1}
+
+#jira-15256
+CutMaterialDisappearance-15256:
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 551, y: 625}
+  click_one_10: {button: left, clicks: 1, duration: 0.2, x: 350, y: 514}
+  click_one_11up: {button: left, clicks: 1, duration: 0.2, x: 350, y: 514}
+  click_one_12: {Keyboard: o, x: 1, y: 1}
+  click_one_3: {button: left, clicks: 1, duration: 0.2, x: 320, y: 392}
+  click_one_4up: {button: left, clicks: 1, duration: 0.2, x: 320, y: 392}
+  click_one_8: {button: right, clicks: 1, duration: 0.2, x: 325, y: 481}
+  click_one_9up: {button: right, clicks: 1, duration: 0.2, x: 325, y: 481}
+
+#jira-14257
+CutMaterialDisappearance-14257:
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 92, y: 392}
+  click_one_10: {button: left, clicks: 1, duration: 0.2, x: 479, y: 56}
+  click_one_11up: {button: left, clicks: 1, duration: 0.2, x: 479, y: 56}
+  click_one_12: {button: left, clicks: 1, duration: 0.2, x: 189, y: 153}
+  click_one_13up: {button: left, clicks: 1, duration: 0.2, x: 189, y: 153}
+  click_one_14: {button: left, clicks: 1, duration: 0.2, x: 227, y: 153}
+  click_one_15up: {button: left, clicks: 1, duration: 0.2, x: 227, y: 153}
+  click_one_16: {button: left, clicks: 1, duration: 0.2, x: 183, y: 238}
+  click_one_17up: {button: left, clicks: 1, duration: 0.2, x: 183, y: 238}
+  click_one_18: {button: left, clicks: 1, duration: 0.2, x: 221, y: 238}
+  click_one_19up: {button: left, clicks: 1, duration: 0.2, x: 221, y: 238}
+  click_one_20: {button: left, clicks: 1, duration: 0.2, x: 185, y: 326}
+  click_one_21up: {button: left, clicks: 1, duration: 0.2, x: 185, y: 326}
+  click_one_22: {button: left, clicks: 1, duration: 0.2, x: 230, y: 324}
+  click_one_23up: {button: left, clicks: 1, duration: 0.2, x: 230, y: 324}
+  click_one_24: {button: left, clicks: 1, duration: 0.2, x: 181, y: 412}
+  click_one_25up: {button: left, clicks: 1, duration: 0.2, x: 181, y: 412}
+  click_one_26: {button: left, clicks: 1, duration: 0.2, x: 231, y: 409}
+  click_one_27up: {button: left, clicks: 1, duration: 0.2, x: 231, y: 409}
+  click_one_28: {button: left, clicks: 1, duration: 0.2, x: 180, y: 493}
+  click_one_29up: {button: left, clicks: 1, duration: 0.2, x: 180, y: 493}
+  click_one_30: {button: left, clicks: 1, duration: 0.2, x: 232, y: 494}
+  click_one_31up: {button: left, clicks: 1, duration: 0.2, x: 232, y: 494}
+  click_one_32: {button: left, clicks: 1, duration: 0.2, x: 197, y: 10}
+  click_one_33up: {button: left, clicks: 1, duration: 0.2, x: 197, y: 10}
+  click_one_34: {button: left, clicks: 1, duration: 0.2, x: 106, y: 57}
+  click_one_35up: {button: left, clicks: 1, duration: 0.2, x: 106, y: 57}
+  click_one_36: {button: left, clicks: 1, duration: 0.2, x: 199, y: 167}
+  click_one_37up: {button: left, clicks: 1, duration: 0.2, x: 199, y: 167}
+  click_one_57: {button: left, clicks: 1, duration: 0.2, x: 215, y: 171}
+  click_one_63up: {button: left, clicks: 2, duration: 2, x: 215, y: 171}
+  click_one_69: {button: right, clicks: 1, duration: 0.2, x: 215, y: 171}
+  click_one_70up: {button: right, clicks: 1, duration: 0.2, x: 215, y: 171}
+  click_one_71: {button: left, clicks: 1, duration: 0.2, x: 273, y: 246}
+  click_one_72up: {button: left, clicks: 1, duration: 0.2, x: 273, y: 246}
+  click_one_73: {button: left, clicks: 1, duration: 0.2, x: 296, y: 53}
+  click_one_74up: {button: left, clicks: 1, duration: 0.2, x: 296, y: 53}
+  click_one_75: {button: right, clicks: 1, duration: 0.2, x: 214, y: 171}
+  click_one_76up: {button: right, clicks: 1, duration: 0.2, x: 214, y: 171}
+  click_one_77: {button: left, clicks: 1, duration: 0.2, x: 243, y: 260}
+  click_one_78up: {button: left, clicks: 1, duration: 0.2, x: 243, y: 260}
+  click_one_79: {Keyboard: o, x: 1, y: 1}
+  click_one_8: {button: left, clicks: 1, duration: 0.2, x: 234, y: 18}
+  click_one_9up: {button: left, clicks: 1, duration: 0.2, x: 234, y: 18}
+
+#jira-12999
+CutMaterialDisappearance-12999:
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 417, y: 652}
+  click_one_10up: {button: right, clicks: 1, duration: 0.2, x: 179, y: 476}
+  click_one_11: {button: left, clicks: 1, duration: 0.2, x: 243, y: 605}
+  click_one_12up: {button: left, clicks: 1, duration: 0.2, x: 243, y: 605}
+  click_one_13: {Keyboard: o, x: 1, y: 1}
+  click_one_3: {button: left, clicks: 1, duration: 0.2, x: 104, y: 61}
+  click_one_4up: {button: left, clicks: 1, duration: 0.2, x: 104, y: 61}
+  click_one_5: {button: left, clicks: 1, duration: 0.2, x: 203, y: 680}
+  click_one_6up: {button: left, clicks: 1, duration: 0.2, x: 203, y: 680}
+  click_one_7: {button: left, clicks: 1, duration: 0.2, x: 203, y: 680}
+  click_one_8up: {button: left, clicks: 2, duration: 2, x: 203, y: 680}
+  click_one_9: {button: right, clicks: 1, duration: 0.2, x: 179, y: 476}
+
+#jira-8258
+CutMaterialDisappearance-8258:
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 766, y: 298}
+  click_one_10: {button: left, clicks: 1, duration: 0.2, x: 726, y: 279}
+  click_one_11up: {button: left, clicks: 1, duration: 0.2, x: 726, y: 279}
+  click_one_12: {button: left, clicks: 2, duration: 0.2, x: 689, y: 255}
+  click_one_13up: {button: left, clicks: 2, duration: 2, x: 726, y: 279}
+  click_one_14: {button: right, clicks: 1, duration: 0.2, x: 689, y: 255}
+  click_one_15up: {button: right, clicks: 1, duration: 0.2, x: 726, y: 279}
+  click_one_16: {button: left, clicks: 1, duration: 0.2, x: 747, y: 406}
+  click_one_17up: {button: left, clicks: 1, duration: 0.2, x: 771, y: 429}
+  click_one_18: {Keyboard: o, x: 1, y: 1}
+
+
+#剪切-崩溃
+CutCollapse-17472:
+  #jira-17472
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 419, y: 508}
+  click_one_10: {Keyboard: o, x: 1, y: 1}
+  click_one_6: {button: right, clicks: 1, duration: 0.2, x: 398, y: 540}
+  click_one_7up: {button: right, clicks: 1, duration: 0.2, x: 386, y: 519}
+  click_one_8: {button: left, clicks: 1, duration: 0.2, x: 456, y: 664}
+  click_one_9up: {button: left, clicks: 1, duration: 0.2, x: 452, y: 640}
+
+CutCollapse-17270:
+  #jira-17270
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 317, y: 278}
+  click_one_10up: {button: right, clicks: 1, duration: 0.2, x: 385, y: 261}
+  click_one_11: {button: left, clicks: 1, duration: 0.2, x: 443, y: 380}
+  click_one_12up: {button: left, clicks: 1, duration: 0.2, x: 443, y: 380}
+  click_one_13: {Keyboard: o, x: 1, y: 1}
+  click_one_7: {button: left, clicks: 1, duration: 0.2, x: 111, y: 48}
+  click_one_8up: {button: left, clicks: 1, duration: 0.2, x: 111, y: 48}
+  click_one_9: {button: right, clicks: 1, duration: 0.2, x: 385, y: 261}
+
+CutCollapse-17204:
+  #jira-17204
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 401, y: 219}
+  click_one_10up: {button: left, clicks: 1, duration: 0.2, x: 466, y: 516}
+  click_one_11: {Keyboard: o, x: 1, y: 1}
+  click_one_7: {button: right, clicks: 1, duration: 0.2, x: 441, y: 395}
+  click_one_8up: {button: right, clicks: 1, duration: 0.2, x: 441, y: 395}
+  click_one_9: {button: left, clicks: 1, duration: 0.2, x: 466, y: 516}
+
+CutCollapse-17181:
+  #jira-17181
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 250, y: 650}
+  click_one_100: {Keyboard: o, x: 1, y: 1}
+  click_one_15: {Keyboard: i, x: 1, y: 1}
+  click_one_16: {button: left, clicks: 1, duration: 0.2, x: 217, y: 604}
+  click_one_17up: {button: left, clicks: 1, duration: 0.2, x: 217, y: 604}
+  click_one_3: {Keyboard: '9', x: 1, y: 1}
+  click_one_38: {button: left, clicks: 1, duration: 0.2, x: 233, y: 582}
+  click_one_39: {Keyboard: ctrl, x: 1, y: 1}
+  click_one_4: {button: left, clicks: 1, duration: 0.2, x: 159, y: 608}
+  click_one_44up: {button: left, clicks: 2, duration: 2, x: 234, y: 553}
+  click_one_5up: {button: left, clicks: 1, duration: 0.2, x: 159, y: 608}
+  click_one_83: {button: left, clicks: 1, duration: 0.2, x: 262, y: 608}
+  click_one_89up: {button: left, clicks: 2, duration: 2, x: 262, y: 608}
+  click_one_96: {button: right, clicks: 1, duration: 0.2, x: 262, y: 608}
+  click_one_97up: {button: right, clicks: 1, duration: 0.2, x: 262, y: 608}
+  click_one_98: {button: left, clicks: 1, duration: 0.2, x: 298, y: 674}
+  click_one_99up: {button: left, clicks: 1, duration: 0.2, x: 298, y: 674}
+
+#剪切-素材改变
+MaterialChange-17778:
+  #jira-17778
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 516, y: 209}
+  click_one_10: {button: right, clicks: 1, duration: 0.2, x: 454, y: 332}
+  click_one_11up: {button: right, clicks: 1, duration: 0.2, x: 513, y: 231}
+  click_one_12: {button: left, clicks: 1, duration: 0.2, x: 514, y: 454}
+  click_one_13up: {button: left, clicks: 1, duration: 0.2, x: 581, y: 359}
+  click_one_14: {Keyboard: o, x: 1, y: 1}
+
+MaterialChange-17627:
+  #jira-17627
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 290, y: 60}
+  click_one_10: {button: right, clicks: 1, duration: 0.2, x: 406, y: 567}
+  click_one_11up: {button: right, clicks: 1, duration: 0.2, x: 432, y: 457}
+  click_one_12: {button: left, clicks: 1, duration: 0.2, x: 463, y: 665}
+  click_one_13up: {button: left, clicks: 1, duration: 0.2, x: 467, y: 556}
+  click_one_14: {Keyboard: ctrl, x: 1, y: 1}
+  click_one_15: {Keyboard: z, x: 1, y: 1}
+  click_one_16: {button: right, clicks: 1, duration: 0.2, x: 434, y: 471}
+  click_one_17up: {button: right, clicks: 1, duration: 0.2, x: 434, y: 471}
+  click_one_18: {button: left, clicks: 1, duration: 0.2, x: 470, y: 557}
+  click_one_19up: {button: left, clicks: 1, duration: 0.2, x: 471, y: 557}
+  click_one_20: {Keyboard: ctrl, x: 1, y: 1}
+  click_one_21: {Keyboard: z, x: 1, y: 1}
+  click_one_22: {button: right, clicks: 1, duration: 0.2, x: 432, y: 441}
+  click_one_23up: {button: right, clicks: 1, duration: 0.2, x: 432, y: 441}
+  click_one_24: {button: left, clicks: 1, duration: 0.2, x: 471, y: 538}
+  click_one_25up: {button: left, clicks: 1, duration: 0.2, x: 471, y: 538}
+  click_one_26: {Keyboard: o, x: 1, y: 1}
+  click_one_3: {button: left, clicks: 1, duration: 0.2, x: 427, y: 394}
+  click_one_4up: {button: left, clicks: 1, duration: 0.2, x: 427, y: 394}
+
+MaterialChange-17105:
+  #jira-17105
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 99, y: 55}
+  click_one_14: {button: left, clicks: 1, duration: 0.2, x: 300, y: 58}
+  click_one_15up: {button: right, clicks: 1, duration: 0.2, x: 525, y: 261}
+  click_one_16: {button: left, clicks: 1, duration: 0.2, x: 623, y: 360}
+  click_one_17up: {button: left, clicks: 1, duration: 0.2, x: 301, y: 56}
+  click_one_18: {button: right, clicks: 1, duration: 0.2, x: 397, y: 302}
+  click_one_19up: {button: right, clicks: 1, duration: 0.2, x: 610, y: 199}
+  click_one_20: {button: left, clicks: 1, duration: 0.2, x: 449, y: 397}
+  click_one_21up: {button: left, clicks: 1, duration: 0.2, x: 669, y: 297}
+  click_one_22: {Keyboard: o, x: 1, y: 1}
+  click_one_3: {button: left, clicks: 1, duration: 0.2, x: 623, y: 360}
+  click_one_4up: {button: left, clicks: 1, duration: 0.2, x: 579, y: 383}
+
+MaterialChange-16962:
+  #jira-16962
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 595, y: 751}
+  click_one_12: {button: left, clicks: 1, duration: 0.2, x: 112, y: 55}
+  click_one_13up: {button: left, clicks: 1, duration: 0.2, x: 112, y: 55}
+  click_one_14: {button: right, clicks: 1, duration: 0.2, x: 622, y: 771}
+  click_one_15up: {button: right, clicks: 1, duration: 0.2, x: 640, y: 765}
+  click_one_16: {button: left, clicks: 1, duration: 0.2, x: 681, y: 381}
+  click_one_17up: {button: left, clicks: 1, duration: 0.2, x: 700, y: 374}
+  click_one_18: {Keyboard: o, x: 1, y: 1}
+  click_one_6: {button: left, clicks: 1, duration: 0.2, x: 727, y: 759}
+  click_one_7up: {button: left, clicks: 1, duration: 0.2, x: 727, y: 759}
+
+#剪切-缝纫线相关
+SewingThread-18056:
+  #jira-18056
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 421, y: 529}
+  click_one_10up: {button: left, clicks: 1, duration: 0.2, x: 375, y: 148}
+  click_one_21: {button: left, clicks: 1, duration: 0.2, x: 286, y: 51}
+  click_one_22up: {button: left, clicks: 1, duration: 0.2, x: 286, y: 51}
+  click_one_23: {button: right, clicks: 1, duration: 0.2, x: 224, y: 397}
+  click_one_24up: {button: right, clicks: 1, duration: 0.2, x: 224, y: 397}
+  click_one_25: {button: left, clicks: 1, duration: 0.2, x: 299, y: 490}
+  click_one_26up: {button: left, clicks: 1, duration: 0.2, x: 299, y: 490}
+  click_one_27: {button: left, clicks: 1, duration: 0.2, x: 1331, y: 53}
+  click_one_28up: {button: left, clicks: 1, duration: 0.2, x: 1331, y: 53}
+  click_one_29: {Keyboard: o, x: 1, y: 1}
+  click_one_3: {button: left, clicks: 1, duration: 0.2, x: 412, y: 536}
+  click_one_4up: {button: left, clicks: 1, duration: 0.2, x: 412, y: 536}
+  click_one_9: {button: left, clicks: 1, duration: 0.2, x: 375, y: 148}
+
+SewingThread-17373:
+  #jira-17373
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 434, y: 290}
+  click_one_10up: {button: left, clicks: 1, duration: 0.2, x: 460, y: 392}
+  click_one_11: {button: left, clicks: 1, duration: 0.2, x: 804, y: 60}
+  click_one_12up: {button: left, clicks: 1, duration: 0.2, x: 804, y: 60}
+  click_one_13: {Keyboard: o, x: 1, y: 1}
+  click_one_5: {button: left, clicks: 1, duration: 0.2, x: 293, y: 53}
+  click_one_6up: {button: left, clicks: 1, duration: 0.2, x: 293, y: 53}
+  click_one_7: {button: right, clicks: 1, duration: 0.2, x: 419, y: 302}
+  click_one_8up: {button: right, clicks: 1, duration: 0.2, x: 419, y: 302}
+  click_one_9: {button: left, clicks: 1, duration: 0.2, x: 460, y: 392}
+
+SewingThread-16266:
+  #jira-16266
+  click_one_1: {button: right, clicks: 1, duration: 0.2, x: 506, y: 476}
+  click_one_3: {button: left, clicks: 1, duration: 0.2, x: 559, y: 593}
+  click_one_4up: {button: left, clicks: 1, duration: 0.2, x: 559, y: 593}
+  click_one_5: {button: left, clicks: 1, duration: 0.2, x: 1333, y: 53}
+  click_one_6up: {button: left, clicks: 1, duration: 0.2, x: 1333, y: 53}
+  click_one_7: {button: left, clicks: 1, duration: 0.2, x: 1333, y: 53}
+  click_one_8up: {button: left, clicks: 1, duration: 0.2, x: 1333, y: 53}
+  click_one_9: {Keyboard: o, x: 1, y: 1}
+
+SewingThread-16153:
+  #jira-16153
+  click_one_1: {button: right, clicks: 1, duration: 0.2, x: 445, y: 353}
+  click_one_3: {button: left, clicks: 1, duration: 0.2, x: 472, y: 392}
+  click_one_4up: {button: left, clicks: 1, duration: 0.2, x: 472, y: 392}
+  click_one_5: {button: left, clicks: 1, duration: 0.2, x: 1333, y: 49}
+  click_one_6up: {button: left, clicks: 1, duration: 0.2, x: 1333, y: 49}
+  click_one_7: {Keyboard: o, x: 1, y: 1}
+
+#剪切-纹理相关
+texture-15863:
+  #jira-15863
+  click_one_1: {button: right, clicks: 1, duration: 0.2, x: 361, y: 807}
+  click_one_3: {button: left, clicks: 1, duration: 0.2, x: 386, y: 851}
+  click_one_4up: {button: left, clicks: 1, duration: 0.2, x: 386, y: 851}
+  click_one_5: {button: left, clicks: 1, duration: 0.2, x: 237, y: 11}
+  click_one_6up: {button: left, clicks: 1, duration: 0.2, x: 237, y: 11}
+  click_one_7: {button: left, clicks: 1, duration: 0.2, x: 47, y: 52}
+  click_one_8up: {button: left, clicks: 1, duration: 0.2, x: 47, y: 52}
+  click_one_9: {Keyboard: o, x: 1, y: 1}
+
+texture-15548:
+  #jira-15548
+  click_one_1: {button: right, clicks: 1, duration: 0.2, x: 358, y: 471}
+  click_one_3: {button: left, clicks: 1, duration: 0.2, x: 406, y: 517}
+  click_one_4up: {button: left, clicks: 1, duration: 0.2, x: 406, y: 517}
+  click_one_5: {Keyboard: o, x: 1, y: 1}
+
+#剪切-没有剪开
+notCut-18209:
+  #jira-18209
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 367, y: 213}
+  click_one_3: {button: left, clicks: 1, duration: 0.2, x: 367, y: 213}
+  click_one_4up: {button: left, clicks: 2, duration: 2, x: 367, y: 213}
+  click_one_5: {button: right, clicks: 1, duration: 0.2, x: 367, y: 213}
+  click_one_6up: {button: right, clicks: 1, duration: 0.2, x: 367, y: 213}
+  click_one_7: {button: left, clicks: 1, duration: 0.2, x: 451, y: 388}
+  click_one_8up: {button: left, clicks: 1, duration: 0.2, x: 451, y: 388}
+  click_one_9: {Keyboard: o, x: 1, y: 1}
+
+notCut-5927:
+  #jira-5927
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 298, y: 50}
+  click_one_10up: {button: left, clicks: 1, duration: 0.2, x: 444, y: 579}
+  click_one_11: {Keyboard: o, x: 1, y: 1}
+  click_one_3: {button: left, clicks: 1, duration: 0.2, x: 399, y: 478}
+  click_one_4up: {button: left, clicks: 1, duration: 0.2, x: 399, y: 478}
+  click_one_5: {button: left, clicks: 1, duration: 0.2, x: 399, y: 478}
+  click_one_6up: {button: left, clicks: 2, duration: 2, x: 399, y: 478}
+  click_one_7: {button: right, clicks: 1, duration: 0.2, x: 399, y: 478}
+  click_one_8up: {button: right, clicks: 1, duration: 0.2, x: 399, y: 478}
+  click_one_9: {button: left, clicks: 1, duration: 0.2, x: 444, y: 579}
+
+#剪切-剪切失败
+cutFailed-9699:
+  #jira-9699
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 293, y: 51}
+  click_one_3: {button: right, clicks: 1, duration: 0.2, x: 508, y: 244}
+  click_one_4up: {button: right, clicks: 1, duration: 0.2, x: 508, y: 244}
+  click_one_5: {button: left, clicks: 1, duration: 0.2, x: 564, y: 340}
+  click_one_6up: {button: left, clicks: 1, duration: 0.2, x: 564, y: 340}
+  click_one_7: {Keyboard: o, x: 1, y: 1}
+
+cutFailed-9017:
+  #jira-9017
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 296, y: 53}
+  click_one_10up: {button: left, clicks: 1, duration: 0.2, x: 423, y: 412}
+  click_one_11: {Keyboard: o, x: 1, y: 1}
+  click_one_3: {button: left, clicks: 1, duration: 0.2, x: 366, y: 316}
+  click_one_4up: {button: left, clicks: 1, duration: 0.2, x: 366, y: 316}
+  click_one_5: {button: left, clicks: 1, duration: 0.2, x: 366, y: 316}
+  click_one_6up: {button: left, clicks: 2, duration: 2, x: 366, y: 316}
+  click_one_7: {button: right, clicks: 1, duration: 0.2, x: 366, y: 316}
+  click_one_8up: {button: right, clicks: 1, duration: 0.2, x: 366, y: 316}
+  click_one_9: {button: left, clicks: 1, duration: 0.2, x: 423, y: 412}
+
+cutFailed-16540:
+  #jira-16540
+  click_one_1: {button: right, clicks: 1, duration: 0.2, x: 369, y: 298}
+  click_one_3: {button: left, clicks: 1, duration: 0.2, x: 454, y: 422}
+  click_one_4up: {button: left, clicks: 1, duration: 0.2, x: 454, y: 422}
+  click_one_5: {Keyboard: o, x: 1, y: 1}
+
+cutFailed-6647:
+  #jira-6647
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 554, y: 301}
+  click_one_15: {button: left, clicks: 1, duration: 0.2, x: 292, y: 52}
+  click_one_16up: {button: left, clicks: 1, duration: 0.2, x: 292, y: 52}
+  click_one_17: {button: right, clicks: 1, duration: 0.2, x: 479, y: 221}
+  click_one_18up: {button: right, clicks: 1, duration: 0.2, x: 475, y: 161}
+  click_one_19: {button: left, clicks: 1, duration: 0.2, x: 541, y: 316}
+  click_one_20up: {button: left, clicks: 1, duration: 0.2, x: 504, y: 253}
+  click_one_21: {Keyboard: o, x: 1, y: 1}
+
+cutFailed-6037:
+  #jira-6037
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 498, y: 511}
+  click_one_10up: {button: left, clicks: 1, duration: 0.2, x: 498, y: 469}
+  click_one_18: {button: left, clicks: 1, duration: 0.2, x: 515, y: 452}
+  click_one_24up: {button: left, clicks: 2, duration: 2, x: 515, y: 452}
+  click_one_36: {button: right, clicks: 1, duration: 0.2, x: 518, y: 485}
+  click_one_37: {Keyboard: lshift, x: 1, y: 1}
+  click_one_38: {Keyboard: lshift, x: 1, y: 1}
+  click_one_39: {Keyboard: lshift, x: 1, y: 1}
+  click_one_40: {Keyboard: lshift, x: 1, y: 1}
+  click_one_41up: {button: right, clicks: 2, duration: 2, x: 515, y: 452}
+  click_one_52: {button: left, clicks: 1, duration: 0.2, x: 573, y: 605}
+  click_one_53up: {button: left, clicks: 1, duration: 0.2, x: 582, y: 578}
+  click_one_54: {Keyboard: o, x: 1, y: 1}
+  click_one_9: {button: left, clicks: 1, duration: 0.2, x: 511, y: 466}
+
+#剪切-自交
+selfing-12376:
+  #jira-12376
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 358, y: 422}
+  click_one_10: {Keyboard: lshift, x: 1, y: 1}
+  click_one_11: {button: left, clicks: 1, duration: 0.2, x: 475, y: 413}
+  click_one_12up: {button: left, clicks: 2, duration: 2, x: 475, y: 413}
+  click_one_26: {button: left, clicks: 1, duration: 0.2, x: 454, y: 403}
+  click_one_30up: {button: left, clicks: 2, duration: 2, x: 454, y: 402}
+  click_one_38: {button: right, clicks: 1, duration: 0.2, x: 457, y: 402}
+  click_one_39up: {button: right, clicks: 2, duration: 2, x: 457, y: 402}
+  click_one_40: {button: left, clicks: 1, duration: 0.2, x: 552, y: 524}
+  click_one_41up: {button: left, clicks: 1, duration: 0.2, x: 552, y: 524}
+  click_one_42: {Keyboard: o, x: 1, y: 1}
+  click_one_8: {button: left, clicks: 1, duration: 0.2, x: 441, y: 422}
+  click_one_9up: {button: left, clicks: 1, duration: 0.2, x: 441, y: 422}
+
+selfing-9969:
+  #jira-9969
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 531, y: 409}
+  click_one_10: {button: left, clicks: 1, duration: 0.2, x: 812, y: 405}
+  click_one_11up: {button: left, clicks: 1, duration: 0.2, x: 812, y: 405}
+  click_one_26: {button: left, clicks: 1, duration: 0.2, x: 498, y: 437}
+  click_one_27up: {button: left, clicks: 1, duration: 0.2, x: 498, y: 437}
+  click_one_37: {button: right, clicks: 1, duration: 0.2, x: 427, y: 515}
+  click_one_38up: {button: right, clicks: 1, duration: 0.2, x: 427, y: 515}
+  click_one_39: {button: left, clicks: 1, duration: 0.2, x: 474, y: 638}
+  click_one_40up: {button: left, clicks: 1, duration: 0.2, x: 474, y: 638}
+  click_one_41: {Keyboard: o, x: 1, y: 1}
+  click_one_7: {button: left, clicks: 1, duration: 0.2, x: 785, y: 413}
+  click_one_8up: {button: left, clicks: 1, duration: 0.2, x: 785, y: 413}
+
+selfing-3421:
+  #jira-3421
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 132, y: 268}
+  click_one_14: {button: left, clicks: 1, duration: 0.2, x: 395, y: 358}
+  click_one_15up: {button: left, clicks: 1, duration: 0.2, x: 395, y: 358}
+  click_one_16: {button: left, clicks: 1, duration: 0.2, x: 395, y: 358}
+  click_one_17up: {button: left, clicks: 2, duration: 2, x: 395, y: 358}
+  click_one_18: {button: right, clicks: 1, duration: 0.2, x: 395, y: 358}
+  click_one_19up: {button: right, clicks: 1, duration: 0.2, x: 395, y: 358}
+  click_one_20: {button: left, clicks: 1, duration: 0.2, x: 436, y: 481}
+  click_one_21up: {button: left, clicks: 1, duration: 0.2, x: 436, y: 481}
+  click_one_22: {Keyboard: o, x: 1, y: 1}
+  click_one_6: {button: left, clicks: 1, duration: 0.2, x: 14, y: 261}
+  click_one_7up: {button: left, clicks: 1, duration: 0.2, x: 14, y: 261}
+
+
+#剪切-版片异常
+abnormalLayout-17595:
+  #17595
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 222, y: 421}
+  click_one_10: {button: left, clicks: 1, duration: 0.2, x: 420, y: 472}
+  click_one_11up: {button: left, clicks: 1, duration: 0.2, x: 453, y: 453}
+  click_one_12: {Keyboard: o, x: 1, y: 1}
+  click_one_8: {button: right, clicks: 1, duration: 0.2, x: 393, y: 429}
+  click_one_9up: {button: right, clicks: 1, duration: 0.2, x: 421, y: 409}
+
+abnormalLayout-17555:
+  #17555
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 430, y: 603}
+  click_one_14: {button: right, clicks: 1, duration: 0.2, x: 468, y: 663}
+  click_one_15up: {button: right, clicks: 1, duration: 0.2, x: 509, y: 730}
+  click_one_16: {button: left, clicks: 1, duration: 0.2, x: 543, y: 302}
+  click_one_17up: {button: left, clicks: 1, duration: 0.2, x: 597, y: 367}
+  click_one_18: {Keyboard: o, x: 1, y: 1}
+  click_one_6: {button: left, clicks: 1, duration: 0.2, x: 581, y: 838}
+  click_one_7up: {button: left, clicks: 1, duration: 0.2, x: 581, y: 838}
+
+abnormalLayout-17295:
+  #17295
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 471, y: 375}
+  click_one_116: {button: left, clicks: 1, duration: 0.2, x: 728, y: 351}
+  click_one_121up: {button: left, clicks: 2, duration: 2, x: 728, y: 351}
+  click_one_13: {button: left, clicks: 1, duration: 0.2, x: 546, y: 307}
+  click_one_14up: {button: left, clicks: 1, duration: 0.2, x: 546, y: 307}
+  click_one_160: {button: left, clicks: 1, duration: 0.2, x: 706, y: 637}
+  click_one_165up: {button: left, clicks: 2, duration: 2, x: 706, y: 636}
+  click_one_209: {button: left, clicks: 1, duration: 0.2, x: 566, y: 667}
+  click_one_21: {button: left, clicks: 1, duration: 0.2, x: 423, y: 101}
+  click_one_215up: {button: left, clicks: 2, duration: 2, x: 566, y: 667}
+  click_one_224: {button: right, clicks: 1, duration: 0.2, x: 566, y: 667}
+  click_one_225up: {button: right, clicks: 1, duration: 0.2, x: 566, y: 667}
+  click_one_226: {button: left, clicks: 1, duration: 0.2, x: 622, y: 366}
+  click_one_227up: {button: left, clicks: 1, duration: 0.2, x: 622, y: 366}
+  click_one_3: {button: left, clicks: 1, duration: 0.2, x: 322, y: 440}
+  click_one_4: {button: left, clicks: 1, duration: 0.2, x: 543, y: 461}
+  click_one_6: {button: left, clicks: 1, duration: 0.2, x: 568, y: 669}
+  click_one_7: {button: left, clicks: 1, duration: 0.2, x: 537, y: 922}
+  click_one_8: {button: right, clicks: 1, duration: 0.2, x: 289, y: 946}
+  click_one_9: {button: left, clicks: 1, duration: 0.2, x: 347, y: 636}
+  click_one_228: {Keyboard: o, x: 1, y: 1}
+  click_one_22up: {button: left, clicks: 1, duration: 0.2, x: 423, y: 101}
+  click_one_27: {button: left, clicks: 1, duration: 0.2, x: 391, y: 214}
+  click_one_28up: {button: left, clicks: 1, duration: 0.2, x: 391, y: 214}
+  click_one_29: {button: left, clicks: 1, duration: 0.2, x: 407, y: 229}
+  click_one_30up: {button: left, clicks: 1, duration: 0.2, x: 407, y: 229}
+  click_one_35: {button: left, clicks: 1, duration: 0.2, x: 204, y: 924}
+  click_one_41up: {button: left, clicks: 2, duration: 2, x: 515, y: 179}
+  click_one_5: {button: left, clicks: 1, duration: 0.2, x: 387, y: 181}
+  click_one_6up: {button: left, clicks: 1, duration: 0.2, x: 387, y: 181}
+  click_one_73: {button: left, clicks: 1, duration: 0.2, x: 707, y: 200}
+  click_one_77up: {button: left, clicks: 2, duration: 2, x: 707, y: 200}
+
+abnormalLayout-17182:
+  #17182
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 300, y: 522}
+  click_one_121: {button: left, clicks: 1, duration: 0.2, x: 387, y: 674}
+  click_one_126up: {button: left, clicks: 2, duration: 2, x: 407, y: 733}
+  click_one_18: {button: left, clicks: 1, duration: 0.2, x: 361, y: 778}
+  click_one_19up: {button: left, clicks: 1, duration: 0.2, x: 361, y: 778}
+  click_one_200: {button: right, clicks: 1, duration: 0.2, x: 419, y: 754}
+  click_one_206up: {button: right, clicks: 2, duration: 2, x: 406, y: 817}
+  click_one_217: {button: left, clicks: 1, duration: 0.5, x: 487, y: 417}
+  click_one_218up: {button: left, clicks: 1, duration: 0.2, x: 449, y: 481}
+  click_one_26: {button: left, clicks: 1, duration: 0.2, x: 376, y: 727}
+  click_one_30up: {button: left, clicks: 2, duration: 2, x: 375, y: 661}
+  click_one_5: {button: left, clicks: 1, duration: 0.2, x: 78, y: 569}
+  click_one_6up: {button: left, clicks: 1, duration: 0.2, x: 78, y: 569}
+
+abnormalLayout-17014:
+  #17014
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 411, y: 433}
+  click_one_11: {button: right, clicks: 1, duration: 0.2, x: 347, y: 576}
+  click_one_12up: {button: right, clicks: 1, duration: 0.2, x: 388, y: 531}
+  click_one_13: {button: left, clicks: 1, duration: 0.2, x: 446, y: 701}
+  click_one_14up: {button: left, clicks: 1, duration: 0.2, x: 420, y: 656}
+  click_one_15: {Keyboard: o, x: 1, y: 1}
+
+abnormalLayout-7366:
+  #7366
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 327, y: 111}
+  click_one_12: {button: left, clicks: 1, duration: 0.2, x: 207, y: 416}
+  click_one_13up: {button: left, clicks: 1, duration: 0.2, x: 207, y: 416}
+  click_one_14: {button: left, clicks: 2, duration: 0.2, x: 128, y: 509}
+  click_one_15up: {button: left, clicks: 2, duration: 2, x: 207, y: 416}
+  click_one_16: {button: right, clicks: 1, duration: 0.2, x: 128, y: 509}
+  click_one_17up: {button: right, clicks: 1, duration: 0.2, x: 207, y: 416}
+  click_one_18: {button: left, clicks: 1, duration: 0.2, x: 215, y: 657}
+  click_one_19up: {button: left, clicks: 1, duration: 0.2, x: 253, y: 566}
+  click_one_20: {Keyboard: o, x: 1, y: 1}
+
+abnormalLayout-6392:
+  #6392
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 343, y: 957}
+  click_one_11: {button: left, clicks: 1, duration: 0.2, x: 294, y: 60}
+  click_one_110: {button: right, clicks: 1, duration: 0.2, x: 332, y: 805}
+  click_one_117up: {button: right, clicks: 2, duration: 2, x: 332, y: 805}
+  click_one_116: {button: right, clicks: 1, duration: 0.2, x: 448, y: 660}
+  click_one_126: {button: left, clicks: 1, duration: 0.2, x: 504, y: 757}
+  click_one_127up: {button: left, clicks: 1, duration: 0.2, x: 385, y: 877}
+  click_one_12up: {button: left, clicks: 1, duration: 0.2, x: 294, y: 60}
+  click_one_80: {button: left, clicks: 1, duration: 0.2, x: 265, y: 750}
+  click_one_13: {button: left, clicks: 1, duration: 0.2, x: 393, y: 601}
+  click_one_14up: {button: left, clicks: 1, duration: 0.2, x: 393, y: 601}
+  click_one_16: {button: left, clicks: 1, duration: 0.2, x: 514, y: 659}
+  click_one_21up: {button: left, clicks: 2, duration: 2, x: 514, y: 659}
+  click_one_75: {button: left, clicks: 1, duration: 0.2, x: 332, y: 805}
+  click_one_20: {button: left, clicks: 1, duration: 0.2, x: 325, y: 553}
+  click_one_81up: {button: left, clicks: 2, duration: 2, x: 332, y: 805}
+
+#剪切-最小值目前为1mm
+minimum-min:
+  #min
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 178, y: 104}
+  click_one_10: {button: left, clicks: 1, duration: 0.2, x: 81, y: 258}
+  click_one_11up: {button: left, clicks: 1, duration: 0.2, x: 81, y: 258}
+  click_one_15: {button: left, clicks: 1, duration: 0.2, x: 134, y: 782}
+  click_one_16up: {button: left, clicks: 1, duration: 0.2, x: 134, y: 782}
+  click_one_20: {button: left, clicks: 1, duration: 0.2, x: 213, y: 943}
+  click_one_21up: {button: left, clicks: 1, duration: 0.2, x: 213, y: 943}
+  click_one_25: {button: left, clicks: 1, duration: 0.2, x: 276, y: 999}
+  click_one_26up: {button: left, clicks: 1, duration: 0.2, x: 276, y: 999}
+  click_one_32: {button: right, clicks: 1, duration: 0.2, x: 443, y: 593}
+  click_one_33up: {button: right, clicks: 1, duration: 0.2, x: 288, y: 491}
+  click_one_34: {button: left, clicks: 1, duration: 0.2, x: 510, y: 226}
+  click_one_35up: {button: left, clicks: 1, duration: 0.2, x: 322, y: 620}
+  click_one_36: {Keyboard: o, x: 1, y: 1}
+
+
+#生成等距内部线
+AddEquidistantInteriorLines:
+  #STUDIO-532
+  click_one_1: { button: left, clicks: 1, duration: 0.2, x: 106, y: 49 }
+  click_one_10up: { button: left, clicks: 1, duration: 0.2, x: 873, y: 349 }
+  click_one_11: { Keyboard: del, x: 1, y: 1 }
+  click_one_12: { Keyboard: numpad1, x: 1, y: 1 }
+  click_one_13: { button: left, clicks: 1, duration: 0.2, x: 1031, y: 438 }
+  click_one_14up: { button: left, clicks: 1, duration: 0.2, x: 868, y: 379 }
+  click_one_15: { Keyboard: del, x: 1, y: 1 }
+  click_one_16: { Keyboard: numpad1, x: 1, y: 1 }
+  click_one_17: { button: left, clicks: 1, duration: 0.2, x: 848, y: 488 }
+  click_one_18up: { button: left, clicks: 1, duration: 0.2, x: 802, y: 610 }
+  click_one_19: { button: left, clicks: 1, duration: 0.2, x: 991, y: 664 }
+  click_one_20up: { button: left, clicks: 1, duration: 0.2, x: 727, y: 696 }
+  click_one_22: { Keyboard: o, x: 1, y: 1 }
+  click_one_3: { button: left, clicks: 1, duration: 0.2, x: 101, y: 674 }
+  click_one_4up: { button: left, clicks: 1, duration: 0.2, x: 742, y: 769 }
+  click_one_5: { button: right, clicks: 1, duration: 0.2, x: 623, y: 712 }
+  click_one_6up: { button: right, clicks: 1, duration: 0.2, x: 623, y: 712 }
+  click_one_7: { button: left, clicks: 1, duration: 0.2, x: 693, y: 854 }
+  click_one_8up: { button: left, clicks: 1, duration: 0.2, x: 693, y: 854 }
+  click_one_9: { button: left, clicks: 1, duration: 0.2, x: 873, y: 349 }
+  click_one_21: { button: left, clicks: 1, duration: 0.2, x: 870, y: 888 }
+
+  #STUDIO-479
+  click_two_1: {button: left, clicks: 1, duration: 0.2, x: 718, y: 388}
+  click_two_10up: {button: left, clicks: 1, duration: 0.2, x: 734, y: 573}
+  click_two_11: {button: left, clicks: 1, duration: 0.2, x: 879, y: 347}
+  click_two_12up: {button: left, clicks: 1, duration: 0.2, x: 879, y: 347}
+  click_two_13: {Keyboard: del, x: 1, y: 1}
+  click_two_14: {Keyboard: numpad0, x: 1, y: 1}
+  click_two_15: {Keyboard: decimal, x: 1, y: 1}
+  click_two_16: {Keyboard: numpad1, x: 1, y: 1}
+  click_two_17: {button: left, clicks: 1, duration: 0.2, x: 1037, y: 439}
+  click_two_18up: {button: left, clicks: 1, duration: 0.2, x: 872, y: 372}
+  click_two_19: {Keyboard: del, x: 1, y: 1}
+  click_two_20: {Keyboard: numpad1, x: 1, y: 1}
+  click_two_21: {button: left, clicks: 1, duration: 0.2, x: 852, y: 534}
+  click_two_22up: {button: left, clicks: 1, duration: 0.2, x: 668, y: 473}
+  click_two_23: {button: left, clicks: 1, duration: 0.2, x: 832, y: 582}
+  click_two_24up: {button: left, clicks: 1, duration: 0.2, x: 664, y: 526}
+  click_two_25: {button: left, clicks: 1, duration: 0.2, x: 841, y: 615}
+  click_two_26up: {button: left, clicks: 1, duration: 0.2, x: 672, y: 555}
+  click_two_27: {button: left, clicks: 1, duration: 0.2, x: 992, y: 663}
+  click_two_28up: {button: left, clicks: 1, duration: 0.2, x: 806, y: 609}
+  click_two_29: {button: left, clicks: 1, duration: 0.2, x: 739, y: 641}
+  click_two_3: {button: left, clicks: 1, duration: 0.2, x: 106, y: 49}
+  click_two_30up: {button: left, clicks: 1, duration: 0.2, x: 739, y: 641}
+  click_two_32: {Keyboard: o, x: 1, y: 1}
+  click_two_4up: {button: left, clicks: 1, duration: 0.2, x: 106, y: 49}
+  click_two_5: {button: left, clicks: 1, duration: 0.2, x: 646, y: 385}
+  click_two_6up: {button: left, clicks: 1, duration: 0.2, x: 646, y: 385}
+  click_two_7: {button: right, clicks: 1, duration: 0.2, x: 646, y: 385}
+  click_two_8up: {button: right, clicks: 1, duration: 0.2, x: 646, y: 385}
+  click_two_9: {button: left, clicks: 1, duration: 0.2, x: 702, y: 588}
+
+
+#保存获取版本号
+Send_message:
+  click_one_1: {button: left, clicks: 1, duration: 0.2, x: 1063, y: 606}
+  click_one_2: {button: left, clicks: 1, duration: 0.2, x: 1018, y: 15}
+
+
+# 做衣服
+MakeClothes:
+  make_one_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1293
+    y: 919
+  make_one_10:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_100up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 434
+    y: 464
+  make_one_101:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 658
+    y: 542
+  make_one_102up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 658
+    y: 542
+  make_one_103:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 568
+    y: 540
+  make_one_104up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 568
+    y: 540
+  make_one_105:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 300
+    y: 538
+  make_one_106up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 300
+    y: 538
+  make_one_107:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 388
+    y: 541
+  make_one_108up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 388
+    y: 541
+  make_one_109:
+    Keyboard: space
+    x: 1
+    y: 1
+  make_one_11:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_110:
+    Keyboard: space
+    x: 1
+    y: 1
+  make_one_111:
+    Keyboard: o
+    x: 1
+    y: 1
+  make_one_12:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_13:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_14:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_15:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_16:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_17:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_18:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_19:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_20:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_21:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_22:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_23:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_24:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_25:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_26:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_27:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_28:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_29:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 606
+    y: 527
+  make_one_3:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1190
+    y: 395
+  make_one_30:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_31:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_32:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_33:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_34:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_35:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 606
+    y: 527
+  make_one_36up:
+    button: left
+    clicks: 2
+    duration: 2
+    x: 606
+    y: 527
+  make_one_37:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_38:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_39:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_40:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_41:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 606
+    y: 527
+  make_one_42up:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 606
+    y: 527
+  make_one_43:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 695
+    y: 154
+  make_one_44up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 695
+    y: 154
+  make_one_45:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 360
+    y: 529
+  make_one_46up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 360
+    y: 529
+  make_one_47:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1093
+    y: 346
+  make_one_48up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1093
+    y: 346
+  make_one_49:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 1251
+    y: 767
+  make_one_4up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1190
+    y: 395
+  make_one_5:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 974
+    y: 669
+  make_one_50up:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 1449
+    y: 731
+  make_one_51:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1548
+    y: 940
+  make_one_52up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1548
+    y: 940
+  make_one_53:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1135
+    y: 390
+  make_one_54up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1135
+    y: 390
+  make_one_55:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 935
+    y: 54
+  make_one_56up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 935
+    y: 53
+  make_one_57:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 541
+    y: 530
+  make_one_58up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 541
+    y: 530
+  make_one_59:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 533
+    y: 643
+  make_one_60up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 533
+    y: 643
+  make_one_61:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 135
+    y: 538
+  make_one_62up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 135
+    y: 537
+  make_one_63:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 134
+    y: 647
+  make_one_64up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 135
+    y: 646
+  make_one_65:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 417
+    y: 531
+  make_one_66up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 417
+    y: 531
+  make_one_67:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 406
+    y: 644
+  make_one_68up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 406
+    y: 644
+  make_one_69:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 268
+    y: 540
+  make_one_6up:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 1123
+    y: 706
+  make_one_7:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 342
+    y: 516
+  make_one_70up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 268
+    y: 540
+  make_one_71:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 262
+    y: 649
+  make_one_72up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 262
+    y: 649
+  make_one_73:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 870
+    y: 51
+  make_one_74up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 870
+    y: 51
+  make_one_75:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 528
+    y: 498
+  make_one_76up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 528
+    y: 498
+  make_one_77:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 590
+    y: 505
+  make_one_78up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 590
+    y: 505
+  make_one_79:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 907
+    y: 658
+  make_one_80up:
+    button: right
+    clicks: 1
+    duration: 0.2
+    x: 1084
+    y: 719
+  make_one_81:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 627
+    y: 512
+  make_one_82up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 627
+    y: 512
+  make_one_83:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 136
+    y: 495
+  make_one_84up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 136
+    y: 495
+  make_one_85:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 263
+    y: 497
+  make_one_86up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 263
+    y: 497
+  make_one_87:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 325
+    y: 510
+  make_one_88up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 325
+    y: 510
+  make_one_89:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 365
+    y: 511
+  make_one_8up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 342
+    y: 516
+  make_one_9:
+    Keyboard: lshift
+    x: 1
+    y: 1
+  make_one_90up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 365
+    y: 511
+  make_one_91:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 417
+    y: 499
+  make_one_92up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 417
+    y: 499
+  make_one_93:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 524
+    y: 472
+  make_one_94up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 524
+    y: 472
+  make_one_95:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 149
+    y: 473
+  make_one_96up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 149
+    y: 473
+  make_one_97:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 232
+    y: 464
+  make_one_98up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 232
+    y: 464
+  make_one_99:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 434
+    y: 464
+
+# 嵌条工具栏
+ClickPiping:
+  add_one_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 236
+    y: 13
+  add_one_2:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 854
+    y: 51
+
+RunBug:
+  # 明线崩溃
+  topstitch_one_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 239
+    y: 15
+  topstitch_one_2:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 604
+    y: 53
+  #边缘对称增加明线，明线延伸
+  topstitch_two_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1603
+    y: 286
+  topstitch_two_3:
+    button: left
+    clicks: 2
+    duration: 0.2
+    x: 1671
+    y: 197
+  topstitch_two_4up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1671
+    y: 196
+  topstitch_two_5:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1671
+    y: 196
+  topstitch_two_6up:
+    button: left
+    clicks: 2
+    duration: 2
+    x: 1671
+    y: 196
+  topstitch_two_7:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 181
+    y: 473
+  topstitch_two_8up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 230
+    y: 503
+  #STUDIO-875明线凹痕
+  topstitch_three_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1605
+    y: 279
+  topstitch_three_10up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 434
+    y: 262
+  topstitch_three_11:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 392
+    y: 319
+  topstitch_three_12up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 392
+    y: 319
+  topstitch_three_13:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 988
+    y: 491
+  topstitch_three_14up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 988
+    y: 491
+  topstitch_three_20:
+    button: middle
+    clicks: 1
+    duration: 0.2
+    x: 988
+    y: 492
+  topstitch_three_21up:
+    button: middle
+    clicks: 1
+    duration: 0.2
+    x: 1067
+    y: 809
+  topstitch_three_22:
+    Keyboard: o
+    x: 1
+    y: 1
+  topstitch_three_3:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1662
+    y: 196
+  topstitch_three_4up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1662
+    y: 196
+  topstitch_three_5:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 1662
+    y: 196
+  topstitch_three_6up:
+    button: left
+    clicks: 2
+    duration: 2
+    x: 1662
+    y: 196
+  topstitch_three_7:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 397
+    y: 268
+  topstitch_three_8up:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 397
+    y: 267
+  topstitch_three_9:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 434
+    y: 262
+  curvePoint_one_1:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 575
+    y: 607
+  curvePoint_one_2:
+    button: left
+    clicks: 1
+    duration: 0.2
+    x: 243
+    y: 558
+
+#版片行走模式
+Walk:
+  click_one_1: #点击测量
+    x: 324
+    y: 14
+    clicks: 1
+    button: left
+    duration: 0.2
+  click_one_2: #点击行走
+    x: 1083
+    y: 55
+    clicks: 1
+    button: left
+    duration: 0.2
+    #点击移动版片
+  add_one_1:
+    x: 471
+    y: 495
+    clicks: 1
+    button: left
+    duration: 0.2
+  #查看绘制箭头
+  add_one_2:
+    x: 460
+    y: 647
+    clicks: 1
+    button: left
+    duration: 0.2
+  #点击固定版片
+  add_one_3:
+    x: 399
+    y: 541
+    clicks: 1
+    button: left
+    duration: 0.2
+  #鼠标行走一段距离
+  add_one_4:
+    x: 402
+    y: 382
+    clicks: 1
+    button: left
+    duration: 0.2
+  #鼠标行走长度大于绘制版片周长
+  add_one_5:
+    x: 171
+    y: 357
+    clicks: 1
+    button: left
+    duration: 0.2
+  #行走长度大于静止版片长度的一半
+  add_one_6:
+    x: 171
+    y: 555
+    clicks: 1
+    button: left
+    duration: 0.2
+  #跨版片行走
+  add_one_7:
+    x: 278
+    y: 220
+    clicks: 1
+    button: left
+    duration: 0.2
+
